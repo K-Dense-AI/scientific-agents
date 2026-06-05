@@ -79,7 +79,10 @@ or replaced. A finished profile should make someone in the field nod — "yes, t
 how we actually think."
 
 Profiles are maintained in `scientific-agents/<profession>/AGENTS.md` and indexed in
-[`catalog.json`](catalog.json) and the [Agents](#agents) table below.
+[`catalog.json`](catalog.json) and the [Agents](#agents) table below. The agronomist
+profile also has nested task-specific guidance beneath its top-level profile. Treat
+that tree as a router and documentation pattern for deeper guidance to consult when
+the task calls for it, not as a promise of automatic runtime child-profile dispatch.
 
 **Windows contributor note:** The companion `CLAUDE.md` files in each profile
 directory are Git symlinks to the sibling `AGENTS.md` files. On Windows, enable
