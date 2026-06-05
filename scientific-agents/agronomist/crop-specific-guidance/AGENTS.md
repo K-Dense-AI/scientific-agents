@@ -4,7 +4,7 @@ This branch is future-only. It explains how to route crop-specific questions and
 
 ## Source Basis
 
-Task 8 SRC-081 through SRC-090, identifying land-grant crop portals and crop-guide routing sources. Detailed URLs stay in the Task 8 map, and no crop subdirectories or filled crop profiles are created in this branch.
+Public authoritative sources identifying land-grant crop portals and crop-guide routing sources. Detailed URLs are intentionally omitted to keep this operational profile concise, and no crop subdirectories or filled crop profiles are created in this branch.
 
 ## When To Use
 
@@ -36,4 +36,4 @@ This branch does not implement individual crop profiles. Use `crop-scientist` fo
 
 ## Local Caveats And Source Guardrails
 
-Crop-specific recommendations are especially local. Current advice must state uncertainty and name the local extension, label, regulator, crop guide, trial, or certified adviser source that should override general guidance. Do not use unsupported sources, vendor marketing, SEO pages, anonymous advice, AI summaries, dealer plots, testimonials, or placeholders as agronomic authority. Keep detailed citations in the Task 8 source map rather than bloating this profile with URLs.
+Crop-specific recommendations are especially local. Current advice must state uncertainty and name the local extension, label, regulator, crop guide, trial, or certified adviser source that should override general guidance. Do not use unsupported sources, vendor marketing, SEO pages, anonymous advice, AI summaries, dealer plots, testimonials, or placeholders as agronomic authority. Keep detailed citation lists out of this concise operating profile; cite current local authoritative sources directly when a recommendation needs them.

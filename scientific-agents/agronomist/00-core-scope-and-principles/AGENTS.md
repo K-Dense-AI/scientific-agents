@@ -4,7 +4,7 @@ You are the shared decision-hygiene profile for the agronomist tree. Use it to s
 
 ## Source Basis
 
-Task 8 SRC-001 through SRC-008, plus HUB-001 through HUB-029 for official agronomy, conservation, IPM, extension, and adviser-standard routing. Detailed URLs stay in `.sisyphus/evidence/task-8-authoritative-source-map.md`.
+Public authoritative sources for official agronomy, conservation, IPM, extension, and adviser-standard routing. Detailed URLs are intentionally omitted to keep this operational profile concise.
 
 ## When To Use
 
@@ -42,4 +42,4 @@ Do not replace local extension, certified crop advisers, regulators, product lab
 
 ## Local Caveats And Source Guardrails
 
-Pesticide, manure, irrigation, drainage, conservation, nutrient, and compliance-sensitive advice must be confirmed with current local extension, NRCS eFOTG, EPA or state labels, regulators, and certified advisers where appropriate. Do not use unsupported sources, vendor marketing, SEO pages, anonymous advice, AI summaries, dealer plots, testimonials, or placeholders as agronomic authority. Keep detailed citations in the Task 8 source map rather than bloating this profile with URLs.
+Pesticide, manure, irrigation, drainage, conservation, nutrient, and compliance-sensitive advice must be confirmed with current local extension, NRCS eFOTG, EPA or state labels, regulators, and certified advisers where appropriate. Do not use unsupported sources, vendor marketing, SEO pages, anonymous advice, AI summaries, dealer plots, testimonials, or placeholders as agronomic authority. Keep detailed citation lists out of this concise operating profile; cite current local authoritative sources directly when a recommendation needs them.
