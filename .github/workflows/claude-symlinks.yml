@@ -1,0 +1,45 @@
+name: Validate CLAUDE/AGENTS symlinks
+
+on:
+  pull_request:
+  push:
+
+jobs:
+  claude-symlinks:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Validate CLAUDE.md symlink targets
+        run: python3 tools/ensure-claude-symlinks.py
+
+      - name: Assert tracked CLAUDE.md files are symlinks
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          checked=0
+          bad=0
+          while IFS= read -r line; do
+            mode=${line%% *}
+            path=${line#*$'	'}
+            checked=$((checked + 1))
+            if [[ "$mode" != "120000" ]]; then
+              echo "non_symlink_mode: ${path} mode=${mode}"
+              bad=$((bad + 1))
+            fi
+          done < <(git ls-files -s 'scientific-agents/**/CLAUDE.md')
+
+          if (( checked == 0 )); then
+            echo "No tracked scientific-agents/**/CLAUDE.md files found"
+            exit 1
+          fi
+
+          if (( bad > 0 )); then
+            echo "Found ${bad} tracked CLAUDE.md files without mode 120000"
+            exit 1
+          fi
+
+          echo "checked ${checked} tracked CLAUDE.md symlinks with mode 120000"
