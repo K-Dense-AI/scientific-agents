@@ -82,6 +82,18 @@ how we actually think."
 Profiles are maintained in `scientific-agents/<profession>/AGENTS.md` and indexed in
 [`catalog.json`](catalog.json) and the [Agents](#agents) table below.
 
+**Windows contributor note:** The companion `CLAUDE.md` files in each profile
+directory are Git symlinks to the sibling `AGENTS.md` files. On Windows, enable
+symlink checkout before cloning or re-checking out this repository:
+
+```bash
+git config --global core.symlinks true
+```
+
+You may also need Windows Developer Mode enabled, or an elevated/admin shell. If
+symlink support is disabled, Git for Windows can check out `CLAUDE.md` as a plain
+text file containing the target path (`AGENTS.md`) instead of as a usable symlink.
+
 ## How to use a profile (three steps)
 
 1. **Pick a profile** from the [Agents](#agents) table below — for example,
