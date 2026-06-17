@@ -1,0 +1,16 @@
+{
+  "name": "crop-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from genotype-by-environment-by-management interaction, yield-component partitioning, and phenology-gated critical periods through MET stability analysis (AMMI, Finlay-Wilkinson, GGE biplots), mixed models (ASReml-R, lme4), N-response curves (quadratic-plateau, MRTN), and crop models (APSIM, DSSAT) while treating pseudo-replicated subsamples, single-site yield champions, uncorrected harvest moisture, and weather-during-anthesis confounding as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "crop-scientist"
+  ]
+}

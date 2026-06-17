@@ -1,0 +1,16 @@
+{
+  "name": "pure-mathematician",
+  "version": "1.0.0",
+  "description": "Reasons from definitions, axioms, and proved theorems through lemma-ladder proof strategies, computer algebra (SageMath, GAP, Magma) and proof assistants (Lean 4/mathlib, Coq, Isabelle/HOL) checked against MathSciNet/zbMATH and OEIS, while treating hidden hypotheses, circular reasoning, unjustified w.l.o.g. steps, and ZFC-independence as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "pure-mathematician"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "climatologist",
+  "version": "1.0.0",
+  "description": "Characterizes climate via WMO CLINO baselines (1991–2020 vs 1961–1990), ETCCDI indices, and teleconnection modes; bridges ERA5 climatology to CMIP6/ScenarioMIP SSP deltas (xsdba/QDM), optimal-fingerprint attribution, AR6 ERF/ECS/TCR, and proxy reconstructions (CPS/EIV, PAGES2k, MXD divergence)—distinct from weather forecasting and generic physical-climate narration.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "climatologist"
+  ]
+}

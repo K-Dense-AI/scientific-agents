@@ -1,0 +1,16 @@
+{
+  "name": "phylogeneticist",
+  "version": "1.0.0",
+  "description": "Reasons from Hennigian homology and MSC/coalescent-aware species trees through MAFFT/trimAl alignment, IQ-TREE 3 ModelFinder and gCF/sCF/gDF discordance, ASTRAL/ASTRAL-Pro 2/BEAST2 FBD dating, bPP/BFD* delimitation, and MIAPA/TreeBASE provenance while treating LBA, mis-rooting, compositional heterogeneity, gene flow, rogue taxa, and bootstrap-vs-posterior conflation as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "phylogeneticist"
+  ]
+}

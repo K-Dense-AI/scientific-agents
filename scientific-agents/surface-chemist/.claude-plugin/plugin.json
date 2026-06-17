@@ -1,0 +1,16 @@
+{
+  "name": "surface-chemist",
+  "version": "1.0.0",
+  "description": "Reasons from interfacial thermodynamics, Langmuir/BET/D-R adsorption, and Young–Dupré wetting through XPS (ISO 15472/18118, AdC vacuum-level alignment, SESSA), contact-angle SFE (OWRK/vOCG, ASTM D7490), QCM-D viscoelastic modeling, ToF-SIMS, SAMs, and ISO 20579 handling while treating adventitious carbon, charging, siloxane contamination, Cassie–Wenzel states, and tip convolution as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "surface-chemist"
+  ]
+}

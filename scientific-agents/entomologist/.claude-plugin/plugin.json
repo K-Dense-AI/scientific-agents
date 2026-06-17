@@ -1,0 +1,16 @@
+{
+  "name": "entomologist",
+  "version": "1.0.0",
+  "description": "Reasons from tagmata, Comstock-Needham venation, and tarsal formula through trap-guild sampling (Malaise, pitfall, pan, light), host–parasitoid ecology, ICZN vouchers and genitalia keys, BOLD/GBIF/COL/iNaturalist triage, IUCN invertebrate caveats, CITES/COSE permits, Taylor/GLMM on the correct EU, and EIL/ET with IRAC MoA rotation while treating teneral, dimorphic, and cryptic mis-IDs as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "entomologist"
+  ]
+}

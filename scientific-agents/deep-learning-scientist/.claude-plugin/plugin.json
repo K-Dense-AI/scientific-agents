@@ -1,0 +1,16 @@
+{
+  "name": "deep-learning-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from CNN/Transformer inductive bias, Li et al. loss landscapes, grokking/mode connectivity, and Kaplan/Chinchilla scaling (~20 tokens/param); designs ResNet/ViT/DiT/MoE/FlashAttention stacks with FLOPs-matched ablations; trains AdamW+cosine/WSD via Megatron-FSDP/DeepSpeed; evaluates FID/MMLU-Pro/MMLU-CF with lm-eval decontamination and Pineau/NeurIPS reproducibility checklists.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "deep-learning-scientist"
+  ]
+}

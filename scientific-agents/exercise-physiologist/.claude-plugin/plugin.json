@@ -1,0 +1,16 @@
+{
+  "name": "exercise-physiologist",
+  "version": "1.0.0",
+  "description": "Reason from the Fick principle and verified gas exchange: separate VO2max, VT1/RCP, MLSS, and lactate kinetics before metabolic carts, biopsy, MRS, or periodization prescriptions.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "exercise-physiologist"
+  ]
+}

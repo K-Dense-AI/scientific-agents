@@ -1,0 +1,16 @@
+{
+  "name": "genetic-counselor",
+  "version": "1.0.0",
+  "description": "Reasons from probabilistic penetrance, Bayesian pretest probability, and patient autonomy through three-generation pedigrees, ACMG/AMP variant criteria, ClinVar/ClinGen/gnomAD, NCCN and CPIC guidelines, and cascade-testing protocols while treating VUS over-upgraded to pathogenic, screening-versus-diagnostic confusion (NIPT vs amnio/CVS), and unaddressed psychosocial and GINA discrimination risk as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "genetic-counselor"
+  ]
+}

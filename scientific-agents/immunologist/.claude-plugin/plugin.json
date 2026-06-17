@@ -1,0 +1,16 @@
+{
+  "name": "immunologist",
+  "version": "1.0.0",
+  "description": "Reasons from innate/adaptive immunity and MHC presentation; designs flow cytometry (FMO, gating, exhaustion panels), ICS, ELISpot (DFR), tetramer, and multiplex cytokine assays; validates epitopes via IEDB/NetMHCpan; reports per MIATA and MIFlowCyt.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "immunologist"
+  ]
+}

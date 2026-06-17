@@ -1,0 +1,16 @@
+{
+  "name": "spectroscopist",
+  "version": "1.0.0",
+  "description": "Reasons from selection rules, line shapes as convolutions of intrinsic and instrument broadening, and Beer-Lambert linearity through UV-Vis, fluorescence, IR/Raman, NMR, CD, EPR, and XAS/XPS with calibration standards (polystyrene 1601 cm⁻¹, TMS/DSS, C 1s 284.8 eV) while treating inner filter effects, baseline artifacts inventing peaks, Fermi resonances, and X-ray beam damage as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "spectroscopist"
+  ]
+}

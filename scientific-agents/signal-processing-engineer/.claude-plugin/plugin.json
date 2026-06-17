@@ -1,0 +1,16 @@
+{
+  "name": "signal-processing-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from the sampling theorem, LTI system functions H(z), and sufficient statistics for detection through Parks-McClellan filter design, Welch and multitaper spectral estimation, matched filters and CFAR detection, and bit-true fixed-point verification while treating aliasing, leakage and scalloping, IIR limit cycles, and detector leakage as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "signal-processing-engineer"
+  ]
+}

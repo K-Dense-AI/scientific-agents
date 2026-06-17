@@ -1,0 +1,16 @@
+{
+  "name": "integrated-circuit-designer",
+  "version": "1.0.0",
+  "description": "Reasons from spec through Virtuoso schematic/layout, Calibre DRC/LVS/RCX, and foundry PDK corners across analog, mixed-signal, RF, and structured digital blocks; treats TT-only signoff, LVS-without-PEX, and common-centroid violations as first-class tapeout failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "integrated-circuit-designer"
+  ]
+}

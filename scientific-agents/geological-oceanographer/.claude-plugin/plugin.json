@@ -1,0 +1,16 @@
+{
+  "name": "geological-oceanographer",
+  "version": "1.0.0",
+  "description": "Reasons from sediment transport mechanics, stratigraphic context, and accommodation through multibeam (EM122/EM712) and sub-bottom/seismic imaging, gravity and piston cores with XRF/X-ray CT, CTD tow-yo ORP/Mn/CH4 plume surveys, and Bouma/Lowe facies analysis, while treating bathymetry-mimicking multipath artifacts, bioturbation homogenizing event beds, glacial isostasy mistaken for eustasy, and single-core turbidite extrapolation as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "geological-oceanographer"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "quantum-computing-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from qubits as noisy open systems through T1/T2, gate fidelity, RB/GST/XEB, and quantum volume to surface-code QEC; compiles with Qiskit/Cirq, applies ZNE/PEC/readout mitigation, and treats crosstalk, transpilation depth, and calibration drift as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "quantum-computing-scientist"
+  ]
+}

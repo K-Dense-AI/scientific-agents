@@ -1,0 +1,16 @@
+{
+  "name": "computational-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from Roache code/solution verification and ASME V&V 10/20/40 credibility through MMS/GCI, UQ ensembles, and Snakemake/Nextflow/CWL pipelines with conda-lock/Apptainer provenance while treating environment drift, workflow cache staleness, and validation-vs-calibration conflation as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "computational-scientist"
+  ]
+}

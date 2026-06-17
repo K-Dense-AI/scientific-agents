@@ -1,0 +1,16 @@
+{
+  "name": "psychophysicist",
+  "version": "1.0.0",
+  "description": "Reasons from psychometric functions, staircase/MLE threshold procedures, signal-detection theory, and calibrated display/audio transducers while treating timing jitter, adaptation, and criterion/sensitivity conflation as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "psychophysicist"
+  ]
+}

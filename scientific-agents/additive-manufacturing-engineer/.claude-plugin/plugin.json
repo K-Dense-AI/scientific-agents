@@ -1,0 +1,16 @@
+{
+  "name": "additive-manufacturing-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from melt-pool physics, VED, and thermal history through LPBF vs DED process selection, build orientation anisotropy, support design, powder lot control, CT/metallography NDE, and ASTM F42 / ISO-ASTM 529xx qualification—not generic 3D printing.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "additive-manufacturing-engineer"
+  ]
+}

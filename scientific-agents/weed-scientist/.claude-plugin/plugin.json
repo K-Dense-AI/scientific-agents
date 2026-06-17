@@ -1,0 +1,16 @@
+{
+  "name": "weed-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from the weed seed bank, population dynamics, and herbicide mode-of-action biology through log-logistic dose-response (GR50/GR90 in R drc), replicated RCB field trials with susceptible checks, molecular resistance assays (ALS sequencing, EPSPS copy number), and HRAC/WSSA-based MOA rotation while treating drift and carryover, tank-mix antagonism and water-quality failures, and late-escape seed rain as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "weed-scientist"
+  ]
+}

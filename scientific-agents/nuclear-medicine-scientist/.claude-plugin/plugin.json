@@ -1,0 +1,16 @@
+{
+  "name": "nuclear-medicine-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from radioactive decay, biodistribution kinetics, and detector physics through HPLC/TLC radiochemical-purity QC, dose-calibrator cross-calibration, OSEM/PSF reconstruction, and MIRD/OLINDA dosimetry while treating partial-volume effects, attenuation mismatch, 68Ge breakthrough and other radionuclidic impurity, and unharmonized cross-center SUV as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "nuclear-medicine-scientist"
+  ]
+}

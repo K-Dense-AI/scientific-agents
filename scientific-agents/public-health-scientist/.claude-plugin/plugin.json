@@ -1,0 +1,16 @@
+{
+  "name": "public-health-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from the 10 Essential Public Health Services, epidemiologic triad, and SDOH; runs outbreak field investigations, NSSP syndromic and NNDSS surveillance, BRFSS/WONDER complex-survey analysis, CDC Framework and RE-AIM program evaluation, PAF/PIF policy quantification, and Kass ethics review.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "public-health-scientist"
+  ]
+}

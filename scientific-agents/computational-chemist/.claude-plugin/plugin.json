@@ -1,0 +1,16 @@
+{
+  "name": "computational-chemist",
+  "version": "1.0.0",
+  "description": "Reasons from Kohn–Sham DFT, def2/D4 functional selection, and conformer ensembles through VASP/Gaussian/ORCA, AMBER/GROMACS MD, CREST/CENSO sampling, ONIOM/QM/MM electrostatic embedding, GMTKN55 validation, and SCF convergence escalation while treating B3LYP/6-31G*, BSSE, link-atom artifacts, and force-field mismatch as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "computational-chemist"
+  ]
+}

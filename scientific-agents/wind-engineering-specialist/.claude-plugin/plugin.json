@@ -1,0 +1,16 @@
+{
+  "name": "wind-engineering-specialist",
+  "version": "1.0.0",
+  "description": "Reasons from ABL exposure, ASCE 7-22/EN 1991-1-4 wind actions, ASCE 49 BLWT Method 3, rigid vs flexible G/Gf, MWFRS vs C&C, and DAD directionality; treats enclosure GCpi, short-fetch exposure, and aeronautical-tunnel misuse as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "wind-engineering-specialist"
+  ]
+}

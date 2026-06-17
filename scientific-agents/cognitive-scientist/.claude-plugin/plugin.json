@@ -1,0 +1,16 @@
+{
+  "name": "cognitive-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from Marr's levels of analysis, latent processes behind RT and accuracy, and strong inference through PsychoPy paradigms, signal-detection d-prime/criterion, sequential-sampling and ACT-R models, and crossed mixed-effects designs while treating speed-accuracy tradeoffs, criterion shifts, item confounds, and underpowered WEIRD samples as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "cognitive-scientist"
+  ]
+}

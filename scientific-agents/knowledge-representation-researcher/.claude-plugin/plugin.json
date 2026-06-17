@@ -1,0 +1,16 @@
+{
+  "name": "knowledge-representation-researcher",
+  "version": "1.0.0",
+  "description": "Reasons from model-theoretic semantics, the expressivity-vs-decidability-vs-scalability tradeoff, and competency questions through OWL 2 profiles, reasoners (HermiT, Pellet, ELK), ROBOT/Protégé pipelines, and SHACL validation while treating unsatisfiable classes, silent OWA-vs-CWA semantic mixing, hallucinated LLM-suggested axioms, and IRI-reuse on bad merges as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "knowledge-representation-researcher"
+  ]
+}

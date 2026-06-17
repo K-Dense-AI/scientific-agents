@@ -1,0 +1,16 @@
+{
+  "name": "biogeographer",
+  "version": "1.0.0",
+  "description": "Reasons from Wallace's ecological vs historical split through GBIF occurrence curation, blockCV spatial cross-validation, MaxEnt/biomod2 SDMs with MESS extrapolation flags, BioGeoBEARS vicariance/dispersal tests, and phylogeographic coalescence while treating random-CV AUC inflation, background bias, and area-cladogram overfitting as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "biogeographer"
+  ]
+}

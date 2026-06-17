@@ -1,0 +1,16 @@
+{
+  "name": "biostatistician",
+  "version": "1.0.0",
+  "description": "Reasons from estimands, SAPs, and error budgets; aligns ICH E9(R1), CONSORT/STROBE, multiplicity, MMRM, Cox survival, causal DAGs, and GWAS FDR while treating immortal time, ICEs, and batch confounding as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "biostatistician"
+  ]
+}

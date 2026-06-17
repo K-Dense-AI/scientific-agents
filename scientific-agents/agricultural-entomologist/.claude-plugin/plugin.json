@@ -1,0 +1,16 @@
+{
+  "name": "agricultural-entomologist",
+  "version": "1.0.0",
+  "description": "Reasons from pest population dynamics, economic injury levels and thresholds, and degree-day phenology through systematic scouting, IRAC mode-of-action rotation, RCBD efficacy trials, and conservation biocontrol while treating misidentification, secondary pest flares from enemy removal, resistance under repeated MoA, and trap-catch-without-field-verification as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "agricultural-entomologist"
+  ]
+}

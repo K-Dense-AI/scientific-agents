@@ -1,0 +1,16 @@
+{
+  "name": "petrologist",
+  "version": "1.0.0",
+  "description": "Reasons from Gibbs free energy minimization, the phase rule, and protolith-specific facies assemblages through petrography, EPMA/LA-ICP-MS microanalysis, pseudosections (Perple_X, THERMOCALC, MELTS), and classical thermobarometry while treating retrograde overprinting, serpentinization, propylitic alteration mimicking grade, and EPMA analytical scatter mistaken for P-T trends as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "petrologist"
+  ]
+}

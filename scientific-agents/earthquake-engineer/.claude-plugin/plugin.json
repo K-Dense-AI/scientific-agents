@@ -1,0 +1,16 @@
+{
+  "name": "earthquake-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from ASCE 7 DRS and SDC, capacity design (R, Cd, Ω₀), ELF/MRS/NRHA and ASCE 41 pushover; models in SAP2000/ETABS/OpenSees with PEER NGA-West2 motions; treats liquefaction, soft-story P-delta collapse, and record-scaling artifacts as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "earthquake-engineer"
+  ]
+}

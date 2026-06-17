@@ -1,0 +1,16 @@
+{
+  "name": "natural-products-chemist",
+  "version": "1.0.0",
+  "description": "Reasons from dereplication (GNPS FBMN, NPAtlas, SNAP-MS, COCONUT), bioassay-guided and MS-triggered isolation, NMR/HRMS structure tiers (DP4+/DU8+), antiSMASH/MIBiG BGC linkage, and PAINS/IMP assay interference while treating HMBC ambiguity, stereochemical misassignment, and aggregator false positives as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "natural-products-chemist"
+  ]
+}

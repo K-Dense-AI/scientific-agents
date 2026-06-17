@@ -1,0 +1,16 @@
+{
+  "name": "neuroengineer",
+  "version": "1.0.0",
+  "description": "Reasons from electrode–electrolyte charge-density limits and foreign-body gliosis through Utah/Neuropixels chronic recording, EIS impedance spectroscopy, Kilosort3/MountainSort validation, FDA IDE pathways, and explant histology (GFAP/Iba1) while treating impedance drift, unvalidated auto-sort inflation, and acute-to-chronic yield collapse as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "neuroengineer"
+  ]
+}

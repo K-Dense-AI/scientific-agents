@@ -1,0 +1,16 @@
+{
+  "name": "formal-methods-researcher",
+  "version": "1.0.0",
+  "description": "Reasons from operational semantics and temporal logics through SPIN/TLA+/PRISM, Coq/Lean/Isabelle, Z3/CVC5, refinement and separation logic, vacuity and false-positive diagnosis, and Dafny/F* versus property-based testing boundaries.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "formal-methods-researcher"
+  ]
+}

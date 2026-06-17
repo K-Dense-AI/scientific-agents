@@ -1,0 +1,16 @@
+{
+  "name": "construction-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from design intent versus means-and-methods through CPM/P6 and Last Planner scheduling, Revit/Navisworks BIM coordination, IBC Chapter 17 special inspections, ASTM C31/C39 cylinder acceptance, and ACI 318 low-break/core protocols while treating formwork collapse, honeycombing, tolerance stack-up, and schedule logic errors as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "construction-engineer"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "neurophysiologist",
+  "version": "1.0.0",
+  "description": "Reasons from membrane biophysics, patch clamp Rs/seal quality, Neuropixels AP/LF streams, LFP referencing and spike contamination, Kilosort4/Phy curation, and stimulation-artifact suppression.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "neurophysiologist"
+  ]
+}

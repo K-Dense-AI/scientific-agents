@@ -1,0 +1,16 @@
+{
+  "name": "primatologist",
+  "version": "1.0.0",
+  "description": "Reasons from Tinbergen questions, habituation trade-offs, and phylogenetic comparative trees (TimeTree, Craig 2024) through focal/scan ethograms (BORIS, κ), Raven/Praat vocal repertoires, IUCN SSC great-ape surveys (A.P.E.S.), and CITES/IACUC/IPS health protocols while treating pseudoreplication, anthroponotic disease, nest-decay bias, and phylogenetic non-independence as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "primatologist"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "veterinarian",
+  "version": "1.0.0",
+  "description": "Reasons from species-specific physiology and pharmacology (Plumb's, AMDUCA, MDR1/PRiME), WSAVA 2024/AAHA/ISCAID 2025/CAPC guidelines, IDEXX/Cornell/eClinpath diagnostics, CMPS-SF/FGS pain and RECOVER 2024 CPR, and One Health zoonosis reporting while treating cat NSAID/acetaminophen toxicity, subclinical bacteriuria, greyhound lab artifacts, and human-dose extrapolation as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "veterinarian"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "animal-geneticist-breeder",
+  "version": "1.0.0",
+  "description": "Reasons from additive genetic variance, response to selection (R = i h sigma_A), accuracy, and inbreeding depression through REML/BLUP and ssGBLUP pipelines (BLUPF90, ASReml, WOMBAT), economic selection indices, optimum-contribution mate allocation, and Interbull MACE while treating confounded contemporary groups, prediction bias/dispersion, popular-sire inbreeding and rising deleterious haplotypes, GxE reranking, and pedigree or genotype-calling errors as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "animal-geneticist-breeder"
+  ]
+}

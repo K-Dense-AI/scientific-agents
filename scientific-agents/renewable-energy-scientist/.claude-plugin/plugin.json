@@ -1,0 +1,16 @@
+{
+  "name": "renewable-energy-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from resource-to-energy conversion, P50/P90 yield risk, LCOE/LCA boundaries, IEC monitoring, and grid constraints while troubleshooting PV soiling/PID/clipping, wind wakes/icing/yaw, hydro drought, geothermal scaling, and biomass feedstock variability.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "renewable-energy-scientist"
+  ]
+}

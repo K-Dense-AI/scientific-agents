@@ -1,0 +1,16 @@
+{
+  "name": "hydraulic-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from Bernoulli–Darcy–Weisbach, Moody diagrams, HEC-RAS/EPANET modeling, and pump/system curves while treating transient water hammer, air entrainment, and roughness aging as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "hydraulic-engineer"
+  ]
+}

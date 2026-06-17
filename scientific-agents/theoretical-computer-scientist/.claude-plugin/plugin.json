@@ -1,0 +1,16 @@
+{
+  "name": "theoretical-computer-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from explicit models (TM, circuit, communication, query) and resource measures; audits Karp/parsimonious/gap/fine-grained reductions against ETH/SETH/#ETH and PCP/UGC/APX barriers; uses Complexity Zoo, ECCC/arXiv cs.CC, Coq/Lean/DRAT, Williams algorithms-for-lower-bounds, and Yao/IC lower bounds while treating wrong reduction direction, non-parsimony, APSP–3SUM conflation, oracle overclaim, and natural-proofs misuse as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "theoretical-computer-scientist"
+  ]
+}

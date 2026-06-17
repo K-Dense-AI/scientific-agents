@@ -1,0 +1,16 @@
+{
+  "name": "data-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from idempotent ELT, medallion bronze/silver/gold, Kimball grain and SCD2, CDC/Debezium and watermark incremental loads, dbt/GX quality gates, Airflow/Dagster orchestration, Iceberg/Delta lakehouse MERGE, data contracts and freshness SLIs while treating silent join drops, duplicate amplification, schema drift, and green-DAG-wrong-numbers as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "data-engineer"
+  ]
+}

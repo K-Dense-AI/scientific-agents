@@ -1,0 +1,16 @@
+{
+  "name": "clinical-laboratory-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from pre-analytical–analytical–post-analytical total testing process; EP15/EP09/EP28 validation, Westgard/Sigma IQC, HIL indices (C56), EP23/IQCP, critical-value read-back, type-and-screen/crossmatch, CLSI M100 direct AST, LC-MS/MS C62, and AUTO10 autoverification.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "clinical-laboratory-scientist"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "electrical-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from Kirchhoff's laws, Maxwell's quasi-static limit, energy conservation, and LTI superposition through SPICE loop-gain and corner analysis, Bode gain/phase-margin checks, impedance-controlled layout, and IEC 62368/CISPR compliance, while treating unmodeled PCB parasitics, ground-return loops, protection let-through energy versus semiconductor SOA, and probe-artifact confounders as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "electrical-engineer"
+  ]
+}

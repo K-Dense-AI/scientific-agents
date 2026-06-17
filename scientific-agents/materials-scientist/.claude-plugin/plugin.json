@@ -1,0 +1,16 @@
+{
+  "name": "materials-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from CALPHAD phase diagrams, Scheil solidification, and Hall–Petch microstructure–property links; validates with XRD Rietveld QPA, EBSD, TEM/STEM, and ASTM mechanical testing while treating preferred orientation, FIB Ga artifacts, EBSD overlap, and Rietveld overfitting as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "materials-scientist"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "thin-film-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from nucleation and growth modes, film stress, interfacial adhesion, and conformality across topography through spectroscopic ellipsometry, XRR, Stoney wafer-curvature, XPS/RBS, and standards like ASTM E2244 and ISO 9211 while treating columnar porosity, barrier pinholes, reactive-sputter hysteresis drift, and uncalibrated-QCM thickness error as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "thin-film-scientist"
+  ]
+}

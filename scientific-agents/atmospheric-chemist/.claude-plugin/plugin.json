@@ -1,0 +1,16 @@
+{
+  "name": "atmospheric-chemist",
+  "version": "1.0.0",
+  "description": "Reasons from coupled photochemical OH-NOx-VOC radical budgets, heterogeneous aerosol uptake, and NOx-limited versus VOC-limited regimes through MCM/F0AM and GEOS-Chem/CMAQ/WRF-Chem models, OH-reactivity closure, PMF on AMS factors, HYSPLIT trajectories, and EKMA isopleths while treating chamber wall losses, instrument cross-sensitivities and inlet artifacts, and emission-inventory error as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "atmospheric-chemist"
+  ]
+}

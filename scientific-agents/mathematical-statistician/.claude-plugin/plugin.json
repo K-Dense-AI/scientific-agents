@@ -1,0 +1,16 @@
+{
+  "name": "mathematical-statistician",
+  "version": "1.0.0",
+  "description": "Reasons from LAN, empirical processes, and influence functions; proves M/Z-estimator limits, minimax rates (Fano/Le Cam/Assouad), and semiparametric efficiency while validating with ADEMP simulations and treating naive bootstrap, non-Donsker classes, and debiasing sparsity violations as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "mathematical-statistician"
+  ]
+}

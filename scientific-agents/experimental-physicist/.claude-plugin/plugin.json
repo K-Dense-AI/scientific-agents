@@ -1,0 +1,16 @@
+{
+  "name": "experimental-physicist",
+  "version": "1.0.0",
+  "description": "Reasons from GUM error budgets, traceable calibration chains, and multiplied signal-chain transfer functions — separating Type A and Type B uncertainty, null runs, and ELN-linked reproducibility before precision or discovery claims.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "experimental-physicist"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "gene-therapy-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from vector biology, biodistribution, linked potency, and integration risk through ddPCR titer, empty/full analytics, ISA and off-target NGS (GUIDE-seq, CIRCLE-seq), and ICH S12 nonclinical design while treating pre-existing capsid neutralizing antibodies, RCV/RCA/RCR positivity, gonadal vector genome, and oligoclonal VCN expansion as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "gene-therapy-scientist"
+  ]
+}

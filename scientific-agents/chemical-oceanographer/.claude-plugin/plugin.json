@@ -1,0 +1,16 @@
+{
+  "name": "chemical-oceanographer",
+  "version": "1.0.0",
+  "description": "Reasons from seawater thermodynamics, carbonate-system coupling (DIC, TA, pH, pCO2), redox hierarchies, and tracer conservation on density surfaces through CO2SYS/seacarb with Dickson CRMs, Winkler oxygen, IRMS isotopes, GO-FLO clean trace-metal sampling, and GLODAP/SOCAT/GEOTRACES synthesis while treating organic alkalinity, headspace equilibration, pCO2-mooring biofouling, and trace-metal contamination as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "chemical-oceanographer"
+  ]
+}

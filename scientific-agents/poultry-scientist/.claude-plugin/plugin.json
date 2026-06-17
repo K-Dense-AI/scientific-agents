@@ -1,0 +1,16 @@
+{
+  "name": "poultry-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from flock-level feed-to-gain conversion, digestible amino acid balance, and thermal/respiratory/pathogen load through FCR/EPEF and HDEP/HOF metrics, pen-or-house mixed models, coccidiosis lesion scoring, hatchery break-out, and strain management guides while treating subclinical coccidiosis and necrotic enteritis, wet-litter footpad dermatitis, pseudoreplicated subsampling, and woody-breast myopathy as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "poultry-scientist"
+  ]
+}

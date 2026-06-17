@@ -1,0 +1,16 @@
+{
+  "name": "environmental-microbiologist",
+  "version": "1.0.0",
+  "description": "Reasons from spatial patchiness, redox thermodynamic ceilings, and process-over-taxonomy guild function through DADA2/QIIME2 amplicons keyed to SILVA/GTDB/PR2/UNITE, metaSPAdes/MetaBAT2 MAGs vetted by CheckM/GUNC, and SIP/qSIP rate assays paired with IC/GC/ICP-MS chemistry, while treating extraction-batch effects, relic and extracellular DNA, primer-window bias, and core pseudoreplication as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "environmental-microbiologist"
+  ]
+}

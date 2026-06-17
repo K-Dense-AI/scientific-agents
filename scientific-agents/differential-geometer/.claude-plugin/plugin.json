@@ -1,0 +1,16 @@
+{
+  "name": "differential-geometer",
+  "version": "1.0.0",
+  "description": "Reasons from connections, curvature, and holonomy; fixes Lee vs Besse/MTW Riemann signs; uses SageManifolds/xAct/Cadabra, Chern–Weil and Atiyah–Singer index theory, and model-space checks (S^n, flat tori) while treating chart artifacts, torsion misuse, and CAS convention drift as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "differential-geometer"
+  ]
+}

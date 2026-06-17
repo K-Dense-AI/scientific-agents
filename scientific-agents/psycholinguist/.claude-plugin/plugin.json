@@ -1,0 +1,16 @@
+{
+  "name": "psycholinguist",
+  "version": "1.0.0",
+  "description": "Reasons from incremental parsing, lexical access, and prediction; designs SPR, eyetracking, VWP, and ERP studies with SUBTLEX/CELEX/MRC norms, maximal LMEMs, and OSF preregistration while treating list effects, SAT, spillover, and N400/P600 over-interpretation as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "psycholinguist"
+  ]
+}

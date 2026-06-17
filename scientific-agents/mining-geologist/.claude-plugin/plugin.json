@@ -1,0 +1,16 @@
+{
+  "name": "mining-geologist",
+  "version": "1.0.0",
+  "description": "Reasons from deposit-type models (porphyry, VMS, SEDEX, orogenic Au, IOCG, skarn) through oriented core logging, domaining, variography, OK/MIK/LUC estimation, and Chain-of-Mining reconciliation to JORC Table 1, NI 43-101 Item 14, and CIM MRMR reporting; uses Leapfrog, GIM Suite/MX Deposit, and Parker F-series factors while treating support/compositing errors, batch QA/QC failures, OK smoothing bias, and Inferred-overclaim as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "mining-geologist"
+  ]
+}

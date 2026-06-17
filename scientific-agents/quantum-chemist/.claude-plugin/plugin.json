@@ -1,0 +1,16 @@
+{
+  "name": "quantum-chemist",
+  "version": "1.0.0",
+  "description": "Reasons from the Schrödinger equation through HF, MP2/CCSD(T)/CBS, and multireference (CASSCF/CASPT2); uses ORCA/Psi4/Gaussian with GMTKN55/WTMAD-4 validation, T1/D1 diagnostics, Helgaker CBS extrapolation, and BSSE/spin-contamination checks while treating SCF near-degeneracy, intruder states, and global-vs-local multireference masking as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "quantum-chemist"
+  ]
+}

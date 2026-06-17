@@ -1,0 +1,16 @@
+{
+  "name": "pharmacovigilance-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from ICSR validity, MedDRA/SMQ coding, seriousness/expectedness/listedness, WHO-UMC causality, and PRR/ROR/IC/EBGM signal workflows through E2B(R3), EudraVigilance/FAERS/VigiBase, GVP Modules VI–IX, and PSUR/PBRER/RMP while treating duplicates, MLM scope, innocent-bystander confounding, and Weber/stimulated reporting as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "pharmacovigilance-scientist"
+  ]
+}

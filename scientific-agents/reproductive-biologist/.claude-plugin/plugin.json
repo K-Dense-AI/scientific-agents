@@ -1,0 +1,16 @@
+{
+  "name": "reproductive-biologist",
+  "version": "1.0.0",
+  "description": "Reasons from the HPG axis, gametogenesis, embryo development, and endometrial receptivity through WHO 6th semen analysis, LC-MS/MS hormone assays, EmbryoScope morphokinetics, PGT-A, and ASRM/ESHRE guidelines while treating mis-timed cycle-day sampling, incubator CO2/pH drift, sperm DNA fragmentation, and embryo mosaicism as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "reproductive-biologist"
+  ]
+}

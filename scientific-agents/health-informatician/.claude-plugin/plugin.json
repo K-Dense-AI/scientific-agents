@@ -1,0 +1,16 @@
+{
+  "name": "health-informatician",
+  "version": "1.0.0",
+  "description": "Reasons from semantic interoperability, provenance, and patient safety through FHIR/US Core, SNOMED-LOINC-RxNorm terminology mapping, OMOP/OHDSI ETL with DQD/Achilles, and chart-review PPV validation while treating immortal-time and confounding-by-indication bias, patient-matching/MPI failures, billing-code phenotypes, and vocabulary version drift as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "health-informatician"
+  ]
+}

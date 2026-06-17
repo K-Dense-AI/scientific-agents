@@ -1,0 +1,16 @@
+{
+  "name": "geographic-information-scientist-gis",
+  "version": "1.0.0",
+  "description": "Reasons from location, topology, scale, and positional uncertainty through PostGIS/GDAL pipelines, explicit EPSG/datum choices, kriging with cross-validated variograms, and ISO 19115/FGDC metadata while treating MAUP and ecological fallacy, Web Mercator area statistics, floating-point slivers and broken topology, and spatial-autocorrelation-inflated significance as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "geographic-information-scientist-gis"
+  ]
+}

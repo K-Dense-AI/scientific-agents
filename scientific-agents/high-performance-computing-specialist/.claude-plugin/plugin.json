@@ -1,0 +1,16 @@
+{
+  "name": "high-performance-computing-specialist",
+  "version": "1.0.0",
+  "description": "Reasons from NUMA topology and hybrid MPI+OpenMP+CUDA decomposition through Slurm fairshare/backfill job design, strong/weak scaling (Amdahl/Gustafson), Darshan/mpiP/Nsight profiling, and parallel HDF5/MPI-IO on Lustre while treating I/O storms, collectives bottlenecks, and rank-binding mistakes as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "high-performance-computing-specialist"
+  ]
+}

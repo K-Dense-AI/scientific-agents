@@ -1,0 +1,16 @@
+{
+  "name": "physical-oceanographer",
+  "version": "1.0.0",
+  "description": "Reasons from geostrophy, thermal wind, PV, and Ekman/Sverdrup balances; integrates GO-SHIP/CCHDO sections, Argo DMQC, DUACS/CMEMS altimetry, and ROMS/MITgcm/NEMO validation while treating reference-level transport ambiguity, Argo conductivity drift, and MDT/alias artifacts as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "physical-oceanographer"
+  ]
+}

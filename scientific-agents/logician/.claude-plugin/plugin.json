@@ -1,0 +1,16 @@
+{
+  "name": "logician",
+  "version": "1.0.0",
+  "description": "Expert profile for logician — see AGENTS.md for field-specific methods and failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "logician"
+  ]
+}

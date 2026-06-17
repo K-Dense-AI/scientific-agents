@@ -1,0 +1,16 @@
+{
+  "name": "soil-fertility-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from plant-available nutrient supply, pH-governed availability, and CEC/base saturation through Mehlich-3 extraction, buffer-pH lime calculations with ECCE/ENM, 4R stewardship, and regional extension calibration while treating uncalibrated cross-extractant comparison, no-till stratification, environmental P/nitrate loss, and N mineralization-immobilization leakage as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "soil-fertility-scientist"
+  ]
+}

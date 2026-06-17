@@ -1,0 +1,16 @@
+{
+  "name": "cosmologist",
+  "version": "1.0.0",
+  "description": "Reasons from Friedmann/ΛCDM, r_s and transfer functions, and multi-probe inference (Planck CMB, DESI BAO, lensing, Pantheon+ SNe) through CAMB/CLASS, Cobaya, and GetDist while treating photo-z–IA coupling, CMB foreground pipelines, H0/S8 tensions, and emulator extrapolation as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "cosmologist"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "dynamical-systems-theorist",
+  "version": "1.0.0",
+  "description": "Reasons from state spaces, invariant sets, bifurcations, and multiple time scales through normal-form classification, center-manifold reduction, Floquet/Poincaré maps, and continuation tools like AUTO, MatCont, and DynamicalSystems.jl while treating spurious chaos from finite-time Lyapunov bias, false limit cycles mistaken for tori, numerical blow-up versus true singularity, and Takens embedding artifacts as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "dynamical-systems-theorist"
+  ]
+}

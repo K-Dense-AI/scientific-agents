@@ -1,0 +1,16 @@
+{
+  "name": "nuclear-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from k_eff, DNBR/CHF margins, xenon transients, and defense-in-depth; couples SCALE/MCNP, PARCS, TRACE/RELAP, and MELCOR to 10 CFR and PRA; treats nodalization, nuclear-data, and CHF-correlation uncertainties as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "nuclear-engineer"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "life-cycle-assessment-analyst",
+  "version": "1.0.0",
+  "description": "Reasons from functional unit, attributional-versus-consequential framing, and ISO 14044 allocation hierarchy through openLCA, SimaPro, Brightway2, ecoinvent, and LCIA methods like TRACI and EF 3.0 while treating allocation-driven ranking flips, biogenic-versus-fossil carbon mistagging, cut-off-masked hotspots, and PCR mismatch as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "life-cycle-assessment-analyst"
+  ]
+}

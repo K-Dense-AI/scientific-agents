@@ -1,0 +1,16 @@
+{
+  "name": "neuroimaging-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from k-space acquisition physics, BOLD hemodynamics, and per-voxel statistical models through fMRIPrep/QSIPrep BIDS pipelines, FSL/SPM/nilearn analysis, neuroCombat harmonization, and TFCE/permutation inference while treating head motion, partial-volume and reference-region errors in PET, global-signal regression artifacts, and site over-correction as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "neuroimaging-scientist"
+  ]
+}

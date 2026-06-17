@@ -1,0 +1,16 @@
+{
+  "name": "traffic-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from LWR/CTM flow, HCM delay/v/c/LOS, K-D-PHF-DDHV volumes, ITE TGM 12th/MTIASD TIAs, Synchro/HCS/SIDRA/VISSIM workflows, and HSM SPF+CMF+EB safety — treating unc calibrated models, naive before–after crashes, and LOS-without-v/c as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "traffic-engineer"
+  ]
+}

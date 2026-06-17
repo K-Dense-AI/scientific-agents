@@ -1,0 +1,16 @@
+{
+  "name": "geotechnical-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from effective stress and LRFD/EC7 limit states through GDR/GBR/FDR deliverables, shallow and deep foundations (GEC 6/10/12), excavation support (DeepEX, LPILE), ground improvement, ASCE 7 liquefaction, observational-method triggers, and FHWA pile acceptance while treating DSC claims, setup vs. blow count, and GBR-vs-design conflation as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "geotechnical-engineer"
+  ]
+}

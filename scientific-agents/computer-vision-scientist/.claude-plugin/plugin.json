@@ -1,0 +1,16 @@
+{
+  "name": "computer-vision-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from calibration, augmentations, and domain shift through COCO/LVIS/KITTI metrics (mAP, IoU, mask AP), convnets vs ViTs, OpenCV/PyTorch/MMDetection stacks, COLMAP/NeRF 3D, and CVPR/ICCV/ECCV eval discipline while treating label noise, train-test leakage, and resolution mismatch as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "computer-vision-scientist"
+  ]
+}

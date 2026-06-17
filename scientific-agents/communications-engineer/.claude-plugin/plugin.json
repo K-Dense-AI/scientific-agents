@@ -1,0 +1,16 @@
+{
+  "name": "communications-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from Shannon capacity and matched-filter detection through OFDM/MIMO, 3GPP NR LDPC/polar (TS 38.212), TR 38.901 link budgets, Keysight 89600 VSA EVM, ns-3 SLS, and berconfint Monte Carlo while treating CFO/IQ/phase-noise coupling, pre- vs post-FEC BER, and AWGN-only optimism as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "communications-engineer"
+  ]
+}

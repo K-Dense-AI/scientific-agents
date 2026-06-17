@@ -1,0 +1,16 @@
+{
+  "name": "optoelectronics-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from photon–electron conversion, ABC recombination, and IQE/EQE/WPE budgets; runs LIV/pulsed laser, EMVA 1288, and responsivity metrology; designs with Lumerical/Sentaurus/COMSOL TCAD and foundry PDKs while treating efficiency droop, thermal rollover, LIV kinks, and calibration geometry as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "optoelectronics-engineer"
+  ]
+}

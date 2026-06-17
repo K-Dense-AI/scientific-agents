@@ -1,0 +1,16 @@
+{
+  "name": "proteomics-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from peptide-to-protein inference, acquisition mode, quantification modality, and missing-value mechanism through MaxQuant, FragPipe/MSFragger, DIA-NN/Spectronaut, Skyline, and MSstats/proDA while treating MNAR missingness, batch confounding, TMT co-isolation ratio compression, and keratin/contaminant signal as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "proteomics-scientist"
+  ]
+}

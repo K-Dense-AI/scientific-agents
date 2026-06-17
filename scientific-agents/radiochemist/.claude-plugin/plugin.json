@@ -1,0 +1,16 @@
+{
+  "name": "radiochemist",
+  "version": "1.0.0",
+  "description": "Reasons from radionuclide half-life, specific activity, radiochemical purity, and dosimetry through analytical/prep HPLC with radiodetector, iTLC, HPGe γ-spectroscopy, OLINDA/MIRD, and USP <823>/EANM release specs while treating defluorination, transchelation of ⁶⁸Ga/⁸⁹Zr, ⁹⁹ᵐTc colloid and ⁶⁸Ge breakthrough as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "radiochemist"
+  ]
+}

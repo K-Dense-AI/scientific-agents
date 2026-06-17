@@ -1,0 +1,16 @@
+{
+  "name": "database-systems-researcher",
+  "version": "1.0.0",
+  "description": "Reasons from storage hierarchy, concurrency semantics, query-optimization theory, and declared workload models through TPC-C/H, YCSB, and JOB benchmarks, Jepsen/Elle correctness checkers, and perf/blktrace/fio profiling while treating cardinality-estimation plan regressions, tail-latency spikes under skew, unfair fsync-disabled speedups, and benchmark-trick wins as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "database-systems-researcher"
+  ]
+}

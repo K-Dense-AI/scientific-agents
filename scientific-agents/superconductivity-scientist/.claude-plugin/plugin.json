@@ -1,0 +1,16 @@
+{
+  "name": "superconductivity-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from BCS/Eliashberg/GL order parameters, pairing symmetry, and vortex physics; validates Tc with Meissner/χ/C triads, phase-sensitive Josephson tests, ARPES/STM gaps, and EPW; uses SuperCon/3DSC and IEC 61788 Ic standards while treating filamentary transitions, pseudogap misreads, DAC flux trapping, and HTS quench detection gaps as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "superconductivity-scientist"
+  ]
+}

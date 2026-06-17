@@ -1,0 +1,16 @@
+{
+  "name": "behavioral-neuroscientist",
+  "version": "1.0.0",
+  "description": "Reasons from contingency structure, deprivation state, and latent arousal/motivation variables through Morris water maze, contextual/cued fear conditioning, operant schedules on Med Associates rigs, and DeepLabCut/SLEAP/SimBA tracking validated against ethograms, while treating thigmotaxis-as-anxiety, locomotor confounds of memory deficits, peripheral CNO sedation, and trials-as-n pseudoreplication as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "behavioral-neuroscientist"
+  ]
+}

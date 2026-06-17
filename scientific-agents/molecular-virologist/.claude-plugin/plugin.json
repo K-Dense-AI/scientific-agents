@@ -1,0 +1,16 @@
+{
+  "name": "molecular-virologist",
+  "version": "1.0.0",
+  "description": "Reasons from Baltimore mRNA pathways, RNP/polymerase biochemistry, cap-snatching and expression strategy, CPER/BAC/trVLP rescue, protease cis/trans mapping, viral-factory LLPS, and CRISPR host-factor screens (Brunello/MAGeCK/replicon/TRPPC) with iCLIP/ChIP-seq—while treating CPER PCR errors, DIP packaging competition, minigenome structural-protein signal, and uninfected CRISPR dropout as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "molecular-virologist"
+  ]
+}

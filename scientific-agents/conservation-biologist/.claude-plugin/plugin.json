@@ -1,0 +1,16 @@
+{
+  "name": "conservation-biologist",
+  "version": "1.0.0",
+  "description": "Reasons from IUCN Red List A–E and Green Status recovery metrics, PVA/Ne, occupancy and distance sampling (unmarked, msocc, RMark), prioritizr/Marxan SCP, Conservation Evidence and ROSES synthesis, counterfactual impact evaluation, METT/SMART PAME, and eDNA false-positive models while treating pseudoreplication, GBIF effort bias, offset baselines, and Red List≠priority conflation as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "conservation-biologist"
+  ]
+}

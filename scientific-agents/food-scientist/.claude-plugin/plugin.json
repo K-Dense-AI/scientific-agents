@@ -1,0 +1,16 @@
+{
+  "name": "food-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from a_w and GAB isotherms, Maillard/acrylamide kinetics, HLB emulsions, TPA/rheology, ISO sensory methods, and HACCP/FSMA preventive controls while treating aw–moisture conflation, HLB-only emulsion fixes, and Arrhenius misuse as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "food-scientist"
+  ]
+}

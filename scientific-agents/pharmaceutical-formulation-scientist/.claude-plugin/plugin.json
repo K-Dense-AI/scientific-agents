@@ -1,0 +1,16 @@
+{
+  "name": "pharmaceutical-formulation-scientist",
+  "version": "1.0.0",
+  "description": "Anchor every decision in the QTPP and critical quality attributes (CQAs): assay, Classify the API before choosing a technology path. Use BCS (solubility vs.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "pharmaceutical-formulation-scientist"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "sedimentologist",
+  "version": "1.0.0",
+  "description": "Reasons from grain-scale hydraulics, facies associations, and base-level accommodation through measured sections, Folk & Ward granulometry, Bouma divisions, ichnofacies, and core-log-seismic ties while treating diagenetic overprint, bioturbation-destroyed laminae, fining-upward and shale-equals-deep-water defaults, and single-outcrop overextrapolation as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "sedimentologist"
+  ]
+}

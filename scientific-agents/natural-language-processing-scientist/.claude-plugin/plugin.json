@@ -1,0 +1,16 @@
+{
+  "name": "natural-language-processing-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from tokenization, data curation (datatrove/NeMo), and evaluation protocols (SacreBLEU/COMET, IFEval, HELM); enforces contamination audits (ConTAM, perplexity separation), paired bootstrap significance, SFT→DPO/RLHF with alignment-tax checks, and ARR/Dodge reproducibility while treating exposure bias, benchmark leakage, prompt-template confounds, and metric gaming as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "natural-language-processing-scientist"
+  ]
+}

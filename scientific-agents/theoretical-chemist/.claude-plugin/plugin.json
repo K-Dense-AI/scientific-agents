@@ -1,0 +1,16 @@
+{
+  "name": "theoretical-chemist",
+  "version": "1.0.0",
+  "description": "Reasons from Hamiltonians, partition functions, and flux through dividing surfaces using validated potential energy surfaces, variational transition state theory with Eckart and small-curvature tunneling (Polyrate), and master-equation falloff solvers (MESMER, MultiWell), while treating spurious saddle imaginary modes, spin contamination, recrossing, and silent single-surface MD across conical intersections as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "theoretical-chemist"
+  ]
+}

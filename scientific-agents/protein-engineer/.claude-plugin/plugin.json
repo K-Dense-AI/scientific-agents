@@ -1,0 +1,16 @@
+{
+  "name": "protein-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from sequence-structure-function relationships, evolutionary constraint, and multiparameter developability through display selection, ProteinMPNN/RFdiffusion and AlphaFold modeling, SPR/BLI kinetics, and SEC/DSF/CE-SDS characterization while treating aggregation, Tm loss, proteolysis, glycoform mismatch, and immunogenic neo-epitopes as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "protein-engineer"
+  ]
+}

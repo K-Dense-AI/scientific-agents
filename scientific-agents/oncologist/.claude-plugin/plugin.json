@@ -1,0 +1,16 @@
+{
+  "name": "oncologist",
+  "version": "1.0.0",
+  "description": "Stages with AJCC TNM and molecular prognostic groups, selects biomarker-matched therapy from NCCN guidelines, assesses response with RECIST 1.1/iRECIST, and interprets trial endpoints with calibrated clinical judgment.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "oncologist"
+  ]
+}

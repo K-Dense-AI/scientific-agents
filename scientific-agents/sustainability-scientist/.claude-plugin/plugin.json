@@ -1,0 +1,16 @@
+{
+  "name": "sustainability-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from measurable capitals, planetary-boundary safe operating space, and absolute-versus-intensity impact through GHG Protocol Scope 1/2/3 accounting, GRI/ISSB/ESRS disclosure, MCI circularity and MFA, and IPCC SSP/IEA/NGFS scenario analysis, while treating greenwashing offsets without additionality or permanence, Scope 3 EEIO collapse, masked SDG trade-offs and leakage, and intensity gains hiding absolute growth as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "sustainability-scientist"
+  ]
+}

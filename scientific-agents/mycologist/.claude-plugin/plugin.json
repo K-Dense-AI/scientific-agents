@@ -1,0 +1,16 @@
+{
+  "name": "mycologist",
+  "version": "1.0.0",
+  "description": "Reasons from fungal life cycles, voucher-first taxonomy, and integrated sporocarp–culture–ITS/multilocus workflows; uses MycoBank/UNITE/MaarjAM, FUSARIUM-ID, EPPO Q-bank, and MycoCosm while treating rich-media non-sporulation, ITS saturation in Fusarium/Penicillium, AMF SSU vs ITS misuse, environmental-DNA-only names, and BSL-3 dimorphic mould handling as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "mycologist"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "astronomical-instrumentation-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from system-level error budgets, the diffraction limit and Strehl ratio, detector figures of merit, and resolving power through Zemax/Code V tolerancing, ETC radiometry, AO modeling, and on-sky standard-star commissioning while treating flexure drift, IR persistence, ghosts, and quasi-static speckles as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "astronomical-instrumentation-scientist"
+  ]
+}

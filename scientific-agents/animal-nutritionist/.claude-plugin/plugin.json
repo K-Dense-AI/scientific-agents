@@ -1,0 +1,16 @@
+{
+  "name": "animal-nutritionist",
+  "version": "1.0.0",
+  "description": "Reasons from NASEM/AAFCO requirements, SID amino acids and ideal protein, CNCPS MP/NE balance, and NANP feed libraries through NIR-wet chemistry validation, ileal vs fecal digestibility, pen-structured mixed models, and ARRIVE reporting while treating intake confounds, NIR calibration drift, acidosis/sorting, and pseudoreplicated pens as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "animal-nutritionist"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "glycobiologist",
+  "version": "1.0.0",
+  "description": "Reasons from N-/O-glycan biosynthesis, O-GlcNAc cycling (OGT/OGA), LC-MS glycomics, exoglycosidase sequencing, and lectin microarrays; uses GlyTouCan/SNFG/MIRAGE, pGlyco/GlycoWorkbench, and treats PNGase F limits, isomer collapse, and ER-stress high-mannose as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "glycobiologist"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "geologist",
+  "version": "1.0.0",
+  "description": "Reasons from Steno's principles and Walther's Law through Brunton strike/dip, measured sections, hand-lens rock ID (QAPF/Folk/Dunham), thin-section petrography (PPL/XPL, Michel-Lévy, point counting), FGDC/GeMS geologic maps, NGMDB/Geolex/Macrostrat, and stereonet structural analysis while treating weathering, float, and map-as-hypothesis as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "geologist"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "catalysis-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from active-site structure, turnover frequency, selectivity, and the Sabatier principle through CO/H2 chemisorption site-counting, Weisz-Prater and Mears transport checks, Langmuir-Hinshelwood/Mars-van Krevelen kinetics, and operando DRIFTS/XAS while treating diffusion-limited apparent rates, DRIFTS spectator species, mercury-test false positives for leached Pd, sintering, coking, and selectivity collapse at high conversion as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "catalysis-scientist"
+  ]
+}

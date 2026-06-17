@@ -1,0 +1,16 @@
+{
+  "name": "materials-physicist",
+  "version": "1.0.0",
+  "description": "Reasons from band structure, defects, strain, and Landau order parameters; integrates HRXRD/RSM, ARPES, TEM/4D-STEM, van der Pauw transport, and SQUID/MOKE with Materials Project/VASP while treating matrix-element ARPES artifacts, substrate-dominated GIXRD, contact-resistance Hall errors, and DFT gap overclaim as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "materials-physicist"
+  ]
+}

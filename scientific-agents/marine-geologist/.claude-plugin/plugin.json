@@ -1,0 +1,16 @@
+{
+  "name": "marine-geologist",
+  "version": "1.0.0",
+  "description": "Reasons from stratigraphy, sedimentary processes, geophysical facies, and age control through multibeam bathymetry, 2D/3D seismic, piston/IODP cores tied via synthetic seismograms, and CSF-A age models while treating bad-SVP false scarps, BSRs mimicking free gas, gas-charged push-down faking structural offset, and reworked-carbon radiocarbon dates as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "marine-geologist"
+  ]
+}

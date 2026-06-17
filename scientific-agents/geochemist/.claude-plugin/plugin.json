@@ -1,0 +1,16 @@
+{
+  "name": "geochemist",
+  "version": "1.0.0",
+  "description": "Reasons from Gibbs equilibria, mass and isotope balance, and fluid–rock interaction through stable (δ) and radiogenic (ε, isochron) systems, ICP-MS/LA-ICP-MS/TIMS/MC-ICP-MS/IRMS, PHREEQC/Perple_X phase modeling, and EarthChem/GeoReM workflows while treating alteration, matrix effects, Pb loss, mixing arrays, and Fretwell’s Law violations as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "geochemist"
+  ]
+}

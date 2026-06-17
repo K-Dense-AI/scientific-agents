@@ -1,0 +1,16 @@
+{
+  "name": "carbon-cycle-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from carbon mass balance across reservoirs and timescales, sign conventions, and budget closure through the Global Carbon Budget protocol, ONEFlux/REddyProc eddy-covariance processing, atmospheric inversions (CarbonTracker, CAMS, GEOS-Chem), Δ¹⁴C/δ¹³C isotopic partitioning, and ILAMB model evaluation while treating NEE sign mismatches, gap-filled GPP read as measured, fixed-depth SOC comparisons, and uncounted lateral aquatic carbon export as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "carbon-cycle-scientist"
+  ]
+}

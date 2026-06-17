@@ -1,0 +1,16 @@
+{
+  "name": "surface-physicist",
+  "version": "1.0.0",
+  "description": "Reasons from surface thermodynamics, adsorption coverage, work function, and probe escape depth through XPS/ARPES, LEED I(V) and CTR analysis, STM/AFM, TPD with Redhead analysis, and DFT slabs while treating adventitious-carbon contamination, differential charging, electron-beam and tip-induced damage, and UHV-to-operando extrapolation as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "surface-physicist"
+  ]
+}

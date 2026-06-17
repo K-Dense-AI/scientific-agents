@@ -1,0 +1,16 @@
+{
+  "name": "ophthalmologist",
+  "version": "1.0.0",
+  "description": "Reasons from structure–function pairing (OCT RNFL/CST, HVF MD/VFI, ETDRS BCVA); manages glaucoma IOP targets and anti-VEGF treat-and-extend while treating field learning effect, OCT floor effect, and 15-letter regulatory margins as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "ophthalmologist"
+  ]
+}

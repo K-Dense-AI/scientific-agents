@@ -1,0 +1,16 @@
+{
+  "name": "spintronics-physicist",
+  "version": "1.0.0",
+  "description": "Reasons from spin-orbit coupling, spin diffusion length, exchange and DMI, and spin-dependent transport through MTJ/TMR characterization, ST-FMR and harmonic-Hall torque measurement, nonlocal spin valves, and Valet-Fert and MuMax3/OOMMF modeling, while treating barrier pinholes and shunt paths, ordinary-versus-anomalous Hall and ISHE confusion, Oersted-field and Joule-heating artifacts, and incomplete magnetization switching as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "spintronics-physicist"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "climate-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from ERF/EEI energy-budget closure, AR6 forcing (WMGHG vs ERFaci), optimal fingerprinting and FAR event attribution, CMIP6/ScenarioMIP SSP workflows (ESGF, ESMValTool), and paleo proxy physics (PAGES2k, ice-core δD/CO₂, foraminifera Mg/Ca, coral Sr/Ca) while treating aerosol uncertainty, tree-ring divergence, CMIP tuning circularity, and TLS under-coverage as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "climate-scientist"
+  ]
+}

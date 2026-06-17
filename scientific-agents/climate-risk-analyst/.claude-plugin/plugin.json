@@ -1,0 +1,16 @@
+{
+  "name": "climate-risk-analyst",
+  "version": "1.0.0",
+  "description": "Reasons from TCFD/IFRS S2 four-pillar disclosure, NGFS Phase V orderly/disorderly/hot-house scenarios, hazard–exposure–vulnerability and RMS/AIR/CLIMADA cat economics, transition carbon-price and stranded-asset pathways, and PCAF financed emissions while treating exposure geocoding quality, Kotz damage-function retraction, and scenario-not-forecast misuse as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "climate-risk-analyst"
+  ]
+}

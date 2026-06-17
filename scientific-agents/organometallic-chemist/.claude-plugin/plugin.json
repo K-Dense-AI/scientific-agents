@@ -1,0 +1,16 @@
+{
+  "name": "organometallic-chemist",
+  "version": "1.0.0",
+  "description": "Reasons from electron counting, oxidation states, and elementary catalytic steps through Schlenk/glovebox technique, multinuclear NMR and νCO IR, SCXRD with checkCIF, and TON/TOF kinetics while treating air oxidation to oxo/hydroxo species, paramagnetic line-broadening, and trace or colloidal-metal leaching as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "organometallic-chemist"
+  ]
+}

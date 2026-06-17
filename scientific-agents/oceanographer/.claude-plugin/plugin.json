@@ -1,0 +1,16 @@
+{
+  "name": "oceanographer",
+  "version": "1.0.0",
+  "description": "Reasons from basin-scale budgets, three-dimensional circulation, and forcing-transport-transformation coupling through θ–S and OMP water-mass analysis, transient-tracer ventilation ages (CFC/SF₆/¹⁴C), GO-SHIP/Argo/SOCAT networks, and TEOS-10 thermodynamics while treating mesoscale aliasing of single sections, mixed real-time and delayed-mode QC, and freshwater-driven salinity confounds as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "oceanographer"
+  ]
+}

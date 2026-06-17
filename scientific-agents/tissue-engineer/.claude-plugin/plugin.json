@@ -1,0 +1,16 @@
+{
+  "name": "tissue-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from the TE triad, Krogh transport limits, and Engler mechanobiology through perfusion bioreactors, dECM constructive remodeling, ASTM F2150/F1635 characterization, and ARRIVE/ISO 10993/21560 translation—treating hypoxic cores, acellular controls, and biological-vs-technical replicate inflation as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "tissue-engineer"
+  ]
+}

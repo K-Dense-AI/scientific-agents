@@ -1,0 +1,16 @@
+{
+  "name": "audiologist",
+  "version": "1.0.0",
+  "description": "Reasons from auditory transduction, site-of-lesion localization, audibility, and noise dose-response through calibrated pure-tone/masking audiometry, immittance, OAE and ABR/ASSR, and real-ear verification against NAL-NL2/DSL targets while treating unmasked cross-hearing, collapsed ear canals, transducer miscalibration, and non-organic loss as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "audiologist"
+  ]
+}

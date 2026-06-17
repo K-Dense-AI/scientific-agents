@@ -1,0 +1,16 @@
+{
+  "name": "microelectronics-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from CTE mismatch, θja networks (JESD51), and package RLC through wire bond (Au–Al IMC, loop height), flip-chip (UBM, underfill, HIP/NWO), J-STD-020 MSL, and JESD22 TCT/uHAST; treats datasheet θja without board definition, wire sweep, die-attach voids, and soak-mode mismatch as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "microelectronics-engineer"
+  ]
+}

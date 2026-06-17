@@ -1,0 +1,16 @@
+{
+  "name": "mycobacteriologist",
+  "version": "1.0.0",
+  "description": "Reasons from slow-growing acid-fast bacilli, knife-edge NALC-NaOH decontamination, and BSL-3 aerosol risk through MGIT culture, Xpert MTB/RIF and line-probe assays, MALDI-TOF and WGS resistance calls against the WHO mutation catalog while treating over-decontamination false negatives, laboratory cross-contamination pseudo-outbreaks, and NTM colonizer-versus-disease misclassification as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "mycobacteriologist"
+  ]
+}

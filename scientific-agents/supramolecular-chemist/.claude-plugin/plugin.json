@@ -1,0 +1,16 @@
+{
+  "name": "supramolecular-chemist",
+  "version": "1.0.0",
+  "description": "Reasons from noncovalent binding free energies (ΔG = ΔH − TΔS), host-guest complementarity, and cooperative assembly through ITC, NMR titration with global fitting (Bindfit, SupraFit), Job's method, and SCXRD while treating wrong-stoichiometry K fits, kinetic traps mistaken for thermodynamic products, ITC dilution-dominated heats, and crystal packing assumed to dominate solution as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "supramolecular-chemist"
+  ]
+}

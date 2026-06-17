@@ -1,0 +1,16 @@
+{
+  "name": "propulsion-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from thrust, specific impulse, characteristic velocity c*, thrust coefficient Cf, and NPSH through NASA CEA, RPA and NPSS cycle models, hot-fire thrust stands, and ROCCID/bomb-test stability screening while treating nozzle separation, inducer cavitation, chugging/screech combustion instability, and scramjet unstart as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "propulsion-engineer"
+  ]
+}

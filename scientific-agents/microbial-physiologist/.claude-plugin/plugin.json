@@ -1,0 +1,16 @@
+{
+  "name": "microbial-physiologist",
+  "version": "1.0.0",
+  "description": "Reasons from Monod/chemostat (μ = D), YX/S and Pirt maintenance, Crabtree/overflow, 13C-MFA and FBA, and BMSAB taxonomy; treats OD-as-biomass yield error, FBA-as-measured-flux, washout misread, and portable ms across media as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "microbial-physiologist"
+  ]
+}

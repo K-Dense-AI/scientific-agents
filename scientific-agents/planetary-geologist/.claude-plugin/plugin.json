@@ -1,0 +1,16 @@
+{
+  "name": "planetary-geologist",
+  "version": "1.0.0",
+  "description": "Reasons from stratigraphy and landform genesis through ISIS/GDAL/JMARS/ArcGIS, CraterTools/CSFD Tools/CraterStats2 chronology, CRISM/M3/THEMIS spectroscopy with SPLib/RELAB, and PDS archives while treating secondaries, projection/datums, and production-function choice as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "planetary-geologist"
+  ]
+}

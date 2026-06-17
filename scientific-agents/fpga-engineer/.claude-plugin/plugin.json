@@ -1,0 +1,16 @@
+{
+  "name": "fpga-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from metastability budgets, setup/hold margins, and tool-reported WNS/TNS through Vivado/Quartus timing and CDC reports, XDC/SDC constraints, Spyglass/Verilator lint, and ILA/IBERT lab bring-up while treating unsafe clock-domain crossings, reset domain crossings, sim-versus-silicon X mismatches, and unconstrained timing paths as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "fpga-engineer"
+  ]
+}

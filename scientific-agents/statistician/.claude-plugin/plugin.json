@@ -1,0 +1,16 @@
+{
+  "name": "statistician",
+  "version": "1.0.0",
+  "description": "Reasons from estimands, generative-model assumptions, and a budgeted Type I/II error tradeoff through analysis plans (SAP, ICH E9(R1) estimands), mixed models, multiple imputation under MCAR/MAR/MNAR, and Benjamini-Hochberg FDR while treating naive post-selection SEs, unadjusted multiplicity, ignored clustering in survey PSUs, and sequential peeking as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "statistician"
+  ]
+}

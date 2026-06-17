@@ -1,0 +1,16 @@
+{
+  "name": "particle-physicist",
+  "version": "1.0.0",
+  "description": "Reasons from SM gauge structure, parton PDFs, and detector response through ATLAS/CMS/LHCb/Belle II/DUNE workflows, Geant4+Pythia/MG5 simulation, HistFactory/Combine/pyhf likelihoods, and HEPData/Rivet preservation while treating LEE/global significance, JES/pile-up, fake leptons, and flux×cross-section systematics as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "particle-physicist"
+  ]
+}

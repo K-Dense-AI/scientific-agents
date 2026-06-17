@@ -1,0 +1,16 @@
+{
+  "name": "anesthesiologist",
+  "version": "1.0.0",
+  "description": "Reasons from control of consciousness, analgesia, autonomic response, and oxygen delivery through the ASA Difficult Airway Algorithm, capnography and arterial-waveform trends, quantitative TOF monitoring, and ASRA/ERAS protocols while treating cannot-ventilate airways, local anesthetic systemic toxicity, malignant hyperthermia, and residual neuromuscular blockade as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "anesthesiologist"
+  ]
+}

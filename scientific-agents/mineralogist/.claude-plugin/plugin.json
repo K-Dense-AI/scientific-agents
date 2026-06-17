@@ -1,0 +1,16 @@
+{
+  "name": "mineralogist",
+  "version": "1.0.0",
+  "description": "Reasons from crystal chemistry, Pauling coordination, and converging optics–XRD/Raman–EPMA evidence; uses RRUFF/Mindat/AMCSD and CNMNC Checklist 2025 while treating preferred orientation, clay EG/heat triads, metamict amorphization, and QEMSCAN library bias as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "mineralogist"
+  ]
+}

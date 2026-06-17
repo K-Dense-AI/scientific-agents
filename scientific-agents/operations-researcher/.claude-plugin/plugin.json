@@ -1,0 +1,16 @@
+{
+  "name": "operations-researcher",
+  "version": "1.0.0",
+  "description": "Reasons from decision structure, integrality and convexity, and explicit uncertainty through LP/MIP solvers (Gurobi, CPLEX, OR-Tools CP-SAT), stochastic and Wasserstein-distributionally-robust formulations, and DES (SimPy, AnyLogic) benchmarked on Solomon/MIPLIB instances, while treating unit inconsistencies, optimality-gap-versus-stale-data trade-offs, infeasibility (IIS) from forgotten labor and fairness constraints, and day-to-day solution oscillation as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "operations-researcher"
+  ]
+}

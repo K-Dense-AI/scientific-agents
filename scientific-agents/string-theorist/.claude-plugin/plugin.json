@@ -1,0 +1,16 @@
+{
+  "name": "string-theorist",
+  "version": "1.0.0",
+  "description": "Reasons from worldsheet CFT anomaly cancellation, moduli stabilization, and effective-field-theory consistency through KKLT/LVS flux compactifications, KLT/CHY/BCFW amplitude methods, and AdS/CFT large-N holography while treating tadpole mismatches, runaway moduli, unstabilized de Sitter uplifts, and conjecture-as-theorem swampland overclaims as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "string-theorist"
+  ]
+}

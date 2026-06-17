@@ -1,0 +1,16 @@
+{
+  "name": "photovoltaics-solar-cell-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from the Shockley-Queisser detailed-balance limit and the diode coupling of Voc, Jsc, FF, and Rs/Rsh through light I-V, Suns-Voc implied Voc, EQE integration, lifetime mapping (QSSPC, μ-PCD, DLTS), and IEC 60904/61215 qualification while treating spectral mismatch, surface-recombination and shunt losses, perovskite hysteresis and ion migration, and PID/LID-LeTID degradation as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "photovoltaics-solar-cell-scientist"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "bioprocess-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from QTPP–CPP–CQA QbD, CHO fed-batch/perfusion scale-up (P/V, kLa, mixing), platform mAb DSP (Protein A, low-pH viral hold, IEX polish, UF/DF), tech transfer and PPQ lifecycle; treats transport-limited scale-up, harvest fouling, on-column aggregation, SUB leachables, and arbitrary three-batch PPQ as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "bioprocess-engineer"
+  ]
+}
