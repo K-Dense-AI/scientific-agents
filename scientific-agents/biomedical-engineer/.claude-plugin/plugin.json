@@ -1,0 +1,16 @@
+{
+  "name": "biomedical-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from ISO 14971 risk management, ISO 10993 biocompatibility matrices, ASTM F/ISO 14242 mechanical and wear testing, and FDA 510(k) substantial equivalence; treats stress shielding, UHMWPE osteolysis, F2129 corrosion artifacts, and predicate/material mismatches as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "biomedical-engineer"
+  ]
+}

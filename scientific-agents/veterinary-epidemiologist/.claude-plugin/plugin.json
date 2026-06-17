@@ -1,0 +1,16 @@
+{
+  "name": "veterinary-epidemiologist",
+  "version": "1.0.0",
+  "description": "Reasons from herd-level units, Rogan–Gladen prevalence, R₀/SIR transmission models, and WOAH freedom-from-disease surveillance through outbreak line lists, SaTScan clusters, cluster field trials (REFLECT), and STROBE-Vet/AHSURED reporting while treating pseudo-replication, test-biased apparent prevalence, reporting-intensity clusters, and mis-specified generation intervals as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "veterinary-epidemiologist"
+  ]
+}

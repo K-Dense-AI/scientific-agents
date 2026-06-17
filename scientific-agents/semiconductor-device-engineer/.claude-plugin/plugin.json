@@ -1,0 +1,16 @@
+{
+  "name": "semiconductor-device-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from electrostatics, capacitance-current MOSFET physics, interface-trap behavior, and self-heating through I-V/C-V extraction ladders, Sentaurus TCAD calibrated to silicon splits, BSIM-CMG compact modeling, and JEDEC reliability stress while treating uncalibrated TCAD, unstated constant-current Vt references, ignored BTI partial recovery, and self-heating-distorted DC Ron as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "semiconductor-device-engineer"
+  ]
+}

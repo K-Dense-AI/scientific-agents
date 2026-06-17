@@ -1,0 +1,16 @@
+{
+  "name": "membrane-biophysicist",
+  "version": "1.0.0",
+  "description": "Reasons from Helfrich elasticity, Lo/Ld phase behavior, and intrinsic curvature; builds GUVs, SLBs, nanodiscs, and BLMs; reads Laurdan GP, FRAP/FCS, aspiration, and electrophysiology while treating multilamellarity, detergent carryover, and probe misinterpretation as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "membrane-biophysicist"
+  ]
+}

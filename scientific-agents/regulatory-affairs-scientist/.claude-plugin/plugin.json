@@ -1,0 +1,16 @@
+{
+  "name": "regulatory-affairs-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from CTD/eCTD Modules 1–5 traceability, FDA Type B/EOP and EMA PRIME/scientific-advice strategy, ICH Q8–Q12 lifecycle CMC, and expedited pathways (BTD/RMAT/accelerated approval); treats RTF, clinical-hold CMC gaps, ignored meeting minutes, and eCTD validation failures as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "regulatory-affairs-scientist"
+  ]
+}

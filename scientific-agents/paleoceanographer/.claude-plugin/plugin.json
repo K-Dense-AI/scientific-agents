@@ -1,0 +1,16 @@
+{
+  "name": "paleoceanographer",
+  "version": "1.0.0",
+  "description": "Reasons from foraminiferal proxy system science (G. ruber, Cibicidoides, species/size fraction), Barker Mg/Ca cleaning and Anand/Gray calibrations, paired planktic δ¹⁸O–Mg/Ca and LR04 benthic stacks, IODP depth scales and splice ties, and AMOC fingerprints (benthic δ¹³C gradients, εNd, ²³¹Pa/²³⁰Th, sortable silt) while treating clay contamination, orbital-tuning circularity, Pa/Th scavenging, and bioturbation mixing as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "paleoceanographer"
+  ]
+}

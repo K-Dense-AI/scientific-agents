@@ -1,0 +1,16 @@
+{
+  "name": "catalysis-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from catalyst lifecycle margin, space velocity (WHSV/GHSV/LHSV), and deactivation economics through plant historian trends, MAT/pilot trickle-bed activity tests, Aspen HYSYS activity factors, and ASTM crush/attrition plus TPO/ICP spent-catalyst profiling while treating coke, poisoning, sintering, attrition, and channeling/maldistribution as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "catalysis-engineer"
+  ]
+}

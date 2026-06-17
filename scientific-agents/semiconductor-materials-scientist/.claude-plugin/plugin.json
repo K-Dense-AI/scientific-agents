@@ -1,0 +1,16 @@
+{
+  "name": "semiconductor-materials-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from band structure, defect energetics, and process–structure–property links; grows and characterizes bulk and epitaxial semiconductors (Si, III–V, SiC, GaN, 2D) via MOCVD/MBE/HVPE, Hall/DLTS/XRD/RSM/ECCI/TEM/SIMS, and DFT defect levels while treating compensation, Fermi-level pinning, threading dislocations, and polytype mixing as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "semiconductor-materials-scientist"
+  ]
+}

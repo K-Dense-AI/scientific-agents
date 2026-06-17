@@ -1,0 +1,16 @@
+{
+  "name": "data-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from CRISP-DM business estimands, leakage-safe sklearn Pipelines and nested CV, SQL/warehouse semantic metrics, A/B power and SRM/AA guardrails, causal DAG covariate discipline, and Model Cards/Datasheets while treating train-test leakage, Simpson's paradox, peeking, and PSI>0.25 drift as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "data-scientist"
+  ]
+}

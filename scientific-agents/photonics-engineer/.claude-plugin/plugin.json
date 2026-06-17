@@ -1,0 +1,16 @@
+{
+  "name": "photonics-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from Maxwell modes, FSR–Q–coupling trade-offs, and optical power/loss budgets; designs PICs and free-space systems with FDTD/INTERCONNECT/Zemax/GDSFactory and certifies links with OLTS/OTDR/M² while treating mesh dispersion errors, TE/TM birefringence, APC/PC connector mismatch, OTDR ghost/gainer events, and Fabry–Pérot convolution artifacts as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "photonics-engineer"
+  ]
+}

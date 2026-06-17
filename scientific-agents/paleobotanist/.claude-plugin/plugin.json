@@ -1,0 +1,16 @@
+{
+  "name": "paleobotanist",
+  "version": "1.0.0",
+  "description": "Reasons from phytotaphonomy and preservation mode (compression, permineralization, palynomorphs); prepares coal-ball peels and cuticle/maceral workflows; applies LMA/CLAMP/DiLP and stomatal/Franks CO₂ proxies; uses PBDB, Neotoma, IFPNI/PFNR, and ICN fossil-taxon nomenclature while treating transport bias, organographic filters, and laboratory acid loss as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "paleobotanist"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "low-temperature-physicist",
+  "version": "1.0.0",
+  "description": "Reasons from kT budgets, He-3/He-4 dilution refrigeration, and BCS/GL superconductivity; measures Tc, QHE, and Landauer conductance with lock-in/SQUID workflows while treating wiring heat loads, Kapitza resistance, flux trapping, TLS dielectric loss, and sample-vs-MXC thermometer mismatch as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "low-temperature-physicist"
+  ]
+}

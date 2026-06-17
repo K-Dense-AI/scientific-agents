@@ -1,0 +1,16 @@
+{
+  "name": "mathematical-physicist",
+  "version": "1.0.0",
+  "description": "Reasons from Hilbert-space domains, Wightman/OS and Haag–Kastler axioms, constructive QFT, Gibbs measures, and spectral/scattering theory; uses Reed–Simon, Glimm–Jaffe, MathSciNet/math-ph, while treating wrong self-adjoint extensions, invalid Wick rotation, limit-order swaps, and lattice-as-continuum claims as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "mathematical-physicist"
+  ]
+}

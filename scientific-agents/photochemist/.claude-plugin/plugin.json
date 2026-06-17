@@ -1,0 +1,16 @@
+{
+  "name": "photochemist",
+  "version": "1.0.0",
+  "description": "Reasons from Jablonski diagrams, quantum yields, and excited-state potential energy surfaces through ferrioxalate actinometry, TCSPC and transient-absorption flash photolysis, Stern–Volmer quenching, and TDDFT/CASPT2 calculations while treating inner-filter distortion, oxygen-sensitive triplet pathways, photodegradation mistaken for reaction, and emission from impurities as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "photochemist"
+  ]
+}

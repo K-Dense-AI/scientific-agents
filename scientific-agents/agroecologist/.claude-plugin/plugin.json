@@ -1,0 +1,16 @@
+{
+  "name": "agroecologist",
+  "version": "1.0.0",
+  "description": "Reasons from socio-ecological farm systems, functional diversity, soil-biology-mediated fertility, and yield-service trade-offs through mother-baby and mixed-model trials, N/P/C mass balances, PLFA/amplicon and pollinator surveys, and NDVI/FRAGSTATS landscape analysis, while treating edge-effect and plot-size artifacts, weather-year confounding, surface-only soil carbon, and ignored labor/tenure adoption constraints as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "agroecologist"
+  ]
+}

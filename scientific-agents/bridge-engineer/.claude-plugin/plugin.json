@@ -1,0 +1,16 @@
+{
+  "name": "bridge-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from load paths, limit states, redundancy, and durability through AASHTO LRFD rating (LRFR/inventory vs. operating), FEM grillage and OpenSees models, HEC-18 scour analysis, and NDE such as half-cell potential and phased-array UT while treating fracture-critical fatigue details, lost composite action, scour, and bearing seizure as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "bridge-engineer"
+  ]
+}

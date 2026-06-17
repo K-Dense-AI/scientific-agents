@@ -1,0 +1,16 @@
+{
+  "name": "civil-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from load paths, factored load combinations, soil-structure interaction, and governing limit states through ASCE 7, ACI 318, AISC 360, and tools like SAP2000/ETABS, PLAXIS, and HEC-RAS while treating missing load paths, connection and foundation failures, differential settlement, and unvalidated FEA as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "civil-engineer"
+  ]
+}

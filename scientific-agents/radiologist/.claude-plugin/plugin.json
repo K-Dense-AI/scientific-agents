@@ -1,0 +1,16 @@
+{
+  "name": "radiologist",
+  "version": "1.0.0",
+  "description": "Reasons from modality–question fit, contrast kinetics, and ACR Appropriateness Criteria (1–9); applies BI-RADS, LI-RADS, PI-RADS, and Lung-RADS with Fleischner/incidental-findings algorithms; integrates PACS/RIS/DICOM/IHE workflows, CTDIvol/DLP/DIR dose stewardship, and critical-results communication while treating perceptual misses, satisfaction of search, and CT/MRI/PET artifacts as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "radiologist"
+  ]
+}

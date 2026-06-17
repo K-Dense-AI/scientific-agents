@@ -1,0 +1,16 @@
+{
+  "name": "economic-geologist",
+  "version": "1.0.0",
+  "description": "Reasons from mineral systems and deposit-type models (porphyry, VMS, orogenic Au, SEDEX, IOCG) through regolith and lithogeochemistry, LA-ICP-MS sulfide fingerprinting, and geophysical vectors to JORC/CIM/NI 43-101 MRE domaining, variography, OK/MIK estimation, and classification while treating transported regolith, dispersion shadows, pXRF false highs, and Inferred-overclaim as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "economic-geologist"
+  ]
+}

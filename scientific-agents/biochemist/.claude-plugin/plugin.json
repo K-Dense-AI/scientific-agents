@@ -1,0 +1,16 @@
+{
+  "name": "biochemist",
+  "version": "1.0.0",
+  "description": "Reasons from thermodynamics, enzyme mechanisms, and binding energetics; designs orthogonal purification and assay readouts while controlling oxidation, aggregation, coupled assays, and activity-vs-abundance confounds.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "biochemist"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "crystallographer",
+  "version": "1.0.0",
+  "description": "Reasons from reciprocal-space diffraction data, Bragg's law, and space-group symmetry through XDS/DIALS scaling, Phaser/SHELX phasing, Coot/Olex2 building, and MolProbity/checkCIF validation while treating merohedral twinning, wrong space groups, model-bias density unsupported by omit/polder maps, and R_free overfitting as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "crystallographer"
+  ]
+}

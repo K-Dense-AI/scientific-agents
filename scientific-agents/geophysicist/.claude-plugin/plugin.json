@@ -1,0 +1,16 @@
+{
+  "name": "geophysicist",
+  "version": "1.0.0",
+  "description": "Reasons from wavelength and skin-depth limits through earthquake catalogs (USGS ComCat, ObsPy/FDSN), Bouguer/IGRF gravity-magnetics, MT distortion and dimensionality, and SEG-Y reflection processing (NMO, migration) while treating statics, galvanic distortion, velocity ambiguity, and header mis-mapping as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "geophysicist"
+  ]
+}

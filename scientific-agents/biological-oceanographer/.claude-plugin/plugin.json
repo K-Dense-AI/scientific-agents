@@ -1,0 +1,16 @@
+{
+  "name": "biological-oceanographer",
+  "version": "1.0.0",
+  "description": "Reasons from light-nutrient-grazing coupling, the microbial loop, and size-structured export through CTD/MOCNESS sampling, 14C and O2/Ar production with 234Th export flux, imaging and flow cytometry enumeration, and SILVA/PR2 metabarcoding while treating spatial patchiness, diel-migration tow aliasing, CDOM-biased chlorophyll algorithms, and eDNA-detection-as-abundance as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "biological-oceanographer"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "astroparticle-physicist",
+  "version": "1.0.0",
+  "description": "Reasons from flux times cross section times acceptance, Poisson counting over structured backgrounds, and Cherenkov photoelectron budgets through SkyLLH unbinned likelihoods, Geant4/CORSIKA chains validated on through-going-muon and calibration samples, and Feldman-Cousins/CLs limits, while treating atmospheric-neutrino and downgoing-muon contamination, ER/NR leakage and the neutrino fog, and look-elsewhere trials as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "astroparticle-physicist"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "genome-engineering-crispr-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from NHEJ/HDR/MMEJ competition and editor modality choice through CRISPick/CRISPResso2 guide design, LOCK/lssDNA and RNP HDR, base and prime editing (PE4/PE5, epegRNA), CAST-Seq/UDiTaS on-target SV assessment, clonal genotyping, and FDA/IBC-bound off-target and genome-integrity analytics.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "genome-engineering-crispr-scientist"
+  ]
+}

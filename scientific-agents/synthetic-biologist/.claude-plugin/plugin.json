@@ -1,0 +1,16 @@
+{
+  "name": "synthetic-biologist",
+  "version": "1.0.0",
+  "description": "Reasons from biological parts, the DBTL cycle, chassis context, and the central dogma as a wiring diagram through Golden Gate and Gibson assembly, SBOL/SBML encoding, RPU/MEFL-calibrated characterization, and FBA models while treating metabolic burden, genetic instability, plasmid loss, and resource competition as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "synthetic-biologist"
+  ]
+}

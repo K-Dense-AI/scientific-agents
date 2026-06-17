@@ -1,0 +1,16 @@
+{
+  "name": "nuclear-chemist",
+  "version": "1.0.0",
+  "description": "Reasons from decay-corrected activity ledgers, decay modes and cross sections, and ALARA dose control through Bateman/ORIGEN modeling, extraction-chromatography separations (TRU/Sr/TEVA resins), and HPGe/alpha/LSC spectroscopy while treating daughter ingrowth, generator breakthrough, spectral pile-up and sum peaks, and swipe-test cross-contamination as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "nuclear-chemist"
+  ]
+}

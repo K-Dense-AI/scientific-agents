@@ -1,0 +1,16 @@
+{
+  "name": "ornithologist",
+  "version": "1.0.0",
+  "description": "Reasons from detectability-limited surveys through BBS/MAPS protocols, distance sampling and unmarked occupancy, eBird/auk hygiene, BirdNET–Raven validation, BBL permitting, Pyle molt scoring, MOTUS/FlightR connectivity, and AviList/Clements taxonomy while treating roadside bias, space-for-time pseudo-replicates, and AI false positives as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "ornithologist"
+  ]
+}

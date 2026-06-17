@@ -1,0 +1,16 @@
+{
+  "name": "robotics-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from the closed sensor-to-actuator loop, kinematic reachability, and dynamic feasibility (friction cones, actuator saturation) through DH/PoE kinematics, RRT*/CHOMP planning, MPC and whole-body control, SLAM, and ROS 2 rosbag logging while treating TF-frame and timestamp mismatches, the sim-to-real gap, grasp slip, and ISO 10218/15066 force-limit violations as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "robotics-scientist"
+  ]
+}

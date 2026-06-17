@@ -1,0 +1,16 @@
+{
+  "name": "process-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from conservation laws, CSTR/PFR selectivity and RTD/Da scale-up through BFD→PFD→P&ID/HAZOP/LOPA/SIL, Aspen Plus/HYSYS HMB, API 520/521 relief and LMTD/F_t exchanger sizing, and lab→pilot→plant commissioning while treating frozen-design violations, simulation-without-data, and BPCS/IPL conflation as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "process-engineer"
+  ]
+}

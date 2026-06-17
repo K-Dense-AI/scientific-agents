@@ -1,0 +1,16 @@
+{
+  "name": "brain-computer-interface-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from modality–paradigm fit (EEG, ECoG, Utah arrays), CSP/Riemannian decoding (pyriemann, MOABB), BCI2000/OpenBCI pipelines, and charge-density stimulation safety; validates within- vs cross-session claims and treats muscle ICA, impedance drift, and IDE/IRB gates as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "brain-computer-interface-engineer"
+  ]
+}

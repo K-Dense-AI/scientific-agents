@@ -1,0 +1,16 @@
+{
+  "name": "combustion-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from stoichiometry, flame stability, emissions, and CFD-reacted flows while treating blow-off, flashback, and soot formation as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "combustion-engineer"
+  ]
+}

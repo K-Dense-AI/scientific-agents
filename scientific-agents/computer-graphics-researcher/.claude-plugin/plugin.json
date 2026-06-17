@@ -1,0 +1,16 @@
+{
+  "name": "computer-graphics-researcher",
+  "version": "1.0.0",
+  "description": "Reasons from the rendering equation and Monte Carlo MIS through Mitsuba/Embree/Blender, Vulkan/DXR real-time stacks, BRDF/BSDF validation, SIGGRAPH/EG reporting, NeRF/3DGS pitfalls, OCIO color pipelines, OIDN denoising bias, and mesh/UV artifact diagnosis while treating train–display gamma errors and unequal-spp comparisons as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "computer-graphics-researcher"
+  ]
+}

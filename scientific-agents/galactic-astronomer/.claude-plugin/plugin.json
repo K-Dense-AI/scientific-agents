@@ -1,0 +1,16 @@
+{
+  "name": "galactic-astronomer",
+  "version": "1.0.0",
+  "description": "Reasons from distance ladders, dust extinction, and survey selection functions through Gaia DR3 cross-matches, isochrone and Bayesian SFH fitting (PARSEC/MIST, Starfish), and orbit integration in named potentials (McMillan17, MWPotential2015) via galpy, Agama, and Gala, while treating parallax-S/N and RUWE failures, unresolved binaries and fiber collisions, dust-or-crowding overdensities, and spiral-arm-mimicking-streams as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "galactic-astronomer"
+  ]
+}

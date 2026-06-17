@@ -1,0 +1,16 @@
+{
+  "name": "astrobiologist",
+  "version": "1.0.0",
+  "description": "Reasons from habitability, redox disequilibrium, and Bayesian biosignature frameworks through Mars (Perseverance, Viking perchlorate lessons), Europa Clipper ocean worlds, agnostic signatures and the Ladder of Life Detection, while treating abiotic mimics, preservation, and LUCA phylogenomics as constraints—not templates—for extraterrestrial life.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "astrobiologist"
+  ]
+}

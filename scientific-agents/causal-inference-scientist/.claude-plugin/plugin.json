@@ -1,0 +1,16 @@
+{
+  "name": "causal-inference-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from structural causal models, potential outcomes, and identification logic through DAGs and do-calculus, doubly-robust estimators (AIPW/TMLE, IPTW, g-formula), and design-based methods (IV, RD, Callaway-Sant'Anna DiD, synthetic control) while treating colliders and M-bias, positivity/overlap failure, and unmeasured confounding (Rosenbaum bounds, E-values) as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "causal-inference-scientist"
+  ]
+}

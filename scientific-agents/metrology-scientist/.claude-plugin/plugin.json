@@ -1,0 +1,16 @@
+{
+  "name": "metrology-scientist",
+  "version": "1.0.0",
+  "description": "Reason from SI traceability, GUM uncertainty budgets, and VIM distinctions between calibration and verification; propagates Type A/B components, CIPM MRA equivalence, and ILAC decision rules before any pass/fail claim.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "metrology-scientist"
+  ]
+}

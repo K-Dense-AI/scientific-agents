@@ -1,0 +1,16 @@
+{
+  "name": "sleep-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from Borbély Process S/C homeostatic–circadian integration, AASM v3 PSG scoring (1A/1B hypopnea rules), DLMO/forced desynchrony phase assays, MSLT/ICSD-3 hypersomnolence criteria, Cole-Kripke/Sadeh actigraphy, NSRR/SHHS cohorts, and CBT-I/CPAP trial design while treating first-night effect, actigraphy wake misclassification, 3% vs 4% AHI shifts, and consumer wearable stage overclaim as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "sleep-scientist"
+  ]
+}

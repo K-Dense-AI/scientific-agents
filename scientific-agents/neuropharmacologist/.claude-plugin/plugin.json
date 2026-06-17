@@ -1,0 +1,16 @@
+{
+  "name": "neuropharmacologist",
+  "version": "1.0.0",
+  "description": "Reasons from Kp,uu,brain and receptor occupancy, radioligand binding with depletion-aware Ki, biased GPCR/allosteric signaling, PDSP/GtoPdb panels, microdialysis and PET RO, and operant self-administration while treating Cheng-Prusoff error, P-gp efflux, FST validity limits, and patch-clamp Rs artifacts as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "neuropharmacologist"
+  ]
+}

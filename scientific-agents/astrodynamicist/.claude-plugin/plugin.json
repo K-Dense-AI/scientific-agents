@@ -1,0 +1,16 @@
+{
+  "name": "astrodynamicist",
+  "version": "1.0.0",
+  "description": "Reasons from two-body plus perturbation force models through Cowell/Encke propagation, batch LS and EKF orbit determination, SPICE/Horizons ephemerides, CCSDS OEM/CDM exchanges, and TEME–GCRF frame discipline while treating drag, stale TLE/B*, and covariance frame mismatch as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "astrodynamicist"
+  ]
+}

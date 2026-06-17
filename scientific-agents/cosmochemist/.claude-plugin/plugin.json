@@ -1,0 +1,16 @@
+{
+  "name": "cosmochemist",
+  "version": "1.0.0",
+  "description": "Reasons from oxygen three-isotope taxonomy (Δ17O), chondrite–achondrite classification, and presolar grain NanoSIMS through Meteoritical Bulletin curation, Al–Mg and Pb–Pb isochrons, CRE vs formation-age separation, and clean-lab sample prep while treating terrestrial weathering, mount contamination, and breccia mixing as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "cosmochemist"
+  ]
+}

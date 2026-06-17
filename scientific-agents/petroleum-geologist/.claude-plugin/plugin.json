@@ -1,0 +1,16 @@
+{
+  "name": "petroleum-geologist",
+  "version": "1.0.0",
+  "description": "Reasons from petroleum-system elements (kerogen I–IV, kitchens, critical moment), trap/spill-point and SGR fault seal, AVO/DHI and inversion QC, Archie/Simandoux/NMR petrophysics with Monte Carlo STOIIP, and PetroMod 1D–3D charge migration; treats tuning flat spots, post-trap charge, and uncorrected Archie Sw as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "petroleum-geologist"
+  ]
+}

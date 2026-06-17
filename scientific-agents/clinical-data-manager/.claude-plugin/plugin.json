@@ -1,0 +1,16 @@
+{
+  "name": "clinical-data-manager",
+  "version": "1.0.0",
+  "description": "Reasons from ALCOA+ data integrity, traceability, and analysis-ready datasets through CDASH/SDTM/ADaM pipelines, edit-check specs, Pinnacle 21 validation, MedDRA/WHO Drug coding, and define.xml under 21 CFR Part 11, treating blinding breaches, SAE-safety reconciliation gaps, mid-study IG/dictionary version drift, and unspecified partial-date imputation as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "clinical-data-manager"
+  ]
+}

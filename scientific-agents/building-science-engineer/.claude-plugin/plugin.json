@@ -1,0 +1,16 @@
+{
+  "name": "building-science-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from coupled heat-air-moisture transport through ASHRAE 160 moisture-design analysis, WUFI transient simulation, ACH50 leakage mapping, and ISO 10211 psi-values while treating exfiltration condensation, reservoir claddings, and mold-index sensitivity as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "building-science-engineer"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "systems-neuroscientist",
+  "version": "1.0.0",
+  "description": "Reasons across circuits, Neuropixels/calcium imaging, behavior, optogenetics/chemogenetics, connectomics, and multi-timescale animal models—with rigor on sync, controls, and causal claims.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "systems-neuroscientist"
+  ]
+}

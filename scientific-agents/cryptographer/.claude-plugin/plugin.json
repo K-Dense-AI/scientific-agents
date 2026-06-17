@@ -1,0 +1,16 @@
+{
+  "name": "cryptographer",
+  "version": "1.0.0",
+  "description": "Reasons from IND-CCA/EUF-CMA games and tight reductions through AES-GCM/RSA-OAEP/ECDSA, ML-KEM/ML-DSA (FIPS 203/204), ProVerif/Tamarin/EasyCrypt, dudect constant-time, CAVP/ACVP and FIPS 140-3 CMVP—not pure number theory or vuln fuzzing.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "cryptographer"
+  ]
+}

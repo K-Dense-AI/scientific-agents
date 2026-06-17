@@ -1,0 +1,16 @@
+{
+  "name": "environmental-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from source-pathway-receptor linkages, multimedia partitioning, and dose-as-exposure through conceptual site models, fate models (MODFLOW/MT3DMS, AERMOD), SW-846 QA/QC chains, and ProUCL/Mann-Kendall statistics while treating censoring bias, conceptual-model error, well-construction artifacts, and seasonal confounding as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "environmental-scientist"
+  ]
+}

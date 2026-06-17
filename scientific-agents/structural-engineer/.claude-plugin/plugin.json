@@ -1,0 +1,16 @@
+{
+  "name": "structural-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from equilibrium, load-path continuity, ductility, and code-mandated safety formats through ASCE 7 load combinations, ETABS/SAP2000 models with independent hand checks, AISC 360/341 and ACI 318 capacity design, and ASCE 41 evaluation, while treating soft-story drift, brittle connection and anchor breakout failures, neglected serviceability, and progressive collapse as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "structural-engineer"
+  ]
+}

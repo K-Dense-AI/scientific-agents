@@ -1,0 +1,16 @@
+{
+  "name": "quantum-optics-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from field quadratures, atom-photon coupling (g, κ, γ), and heralding efficiency budgets through g⁽²⁾ Hanbury Brown-Twiss measurement, balanced homodyne tomography, HOM interference, and SNSPD/APD detector calibration while treating afterpulsing-faked antibunching, LO phase drift erasing squeezing, accidentals and dark counts, and unaddressed Bell-test loopholes as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "quantum-optics-scientist"
+  ]
+}

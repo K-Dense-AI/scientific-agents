@@ -1,0 +1,16 @@
+{
+  "name": "quantitative-biologist",
+  "version": "1.0.0",
+  "description": "Reasons from SBML/PEtab ODE models, structural and profile-likelihood identifiability, Bayesian inference (Stan/PyMC/AMICI), and live-cell pipelines (Cellpose/TrackMate/PhotoFiTT, REMBI); treats sloppiness, phototoxicity, and segmentation-tracking artifacts as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "quantitative-biologist"
+  ]
+}

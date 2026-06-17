@@ -1,0 +1,16 @@
+{
+  "name": "cryptography-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from explicit threat models, vetted primitives, key hierarchy, and constant-time secret handling through STRIDE threat modeling, standards (RFC 8446 TLS 1.3, FIPS 203/204, Ed25519), test vectors (Wycheproof, NIST CAVP), and protocol verifiers (Tamarin, ProVerif) while treating nonce reuse in AEAD, padding/Bleichenbacher oracles, timing side channels, and weak-RNG keys as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "cryptography-engineer"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "critical-care-researcher",
+  "version": "1.0.0",
+  "description": "Reasons from acute physiology trajectories, modular organ dysfunction, and cluster-aware trial design through APACHE/SAPS/SOFA scoring, Berlin/Sepsis-3/KDIGO definitions, MIMIC-IV phenotyping, and target-trial emulation with clone-censor-weighting while treating immortal-time bias, cluster contamination, competing risks from early death, and sepsis-phenotype cohort inflation as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "critical-care-researcher"
+  ]
+}

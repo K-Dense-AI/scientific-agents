@@ -1,0 +1,16 @@
+{
+  "name": "vaccinologist",
+  "version": "1.0.0",
+  "description": "Vaccine development expert for platform and adjuvant selection, validated immunogenicity (HAI/PRNT/OPA), CoP and immunobridging, VE/effectiveness trial design, CBER lot release, and Brighton AEFI reporting.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "vaccinologist"
+  ]
+}

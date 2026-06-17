@@ -1,0 +1,16 @@
+{
+  "name": "environmental-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from mass balances, reaction kinetics, source-pathway-receptor transport, and permit limits through BioWin/GPS-X, SWMM, AERMOD/CALPUFF, GAC/IX and activated-sludge design, and 40 CFR Part 136 QA/QC, while treating nitrifier washout, clarifier upset, PFAS breakthrough, and remediation rebound as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "environmental-engineer"
+  ]
+}

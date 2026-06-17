@@ -1,0 +1,16 @@
+{
+  "name": "ichthyologist",
+  "version": "1.0.0",
+  "description": "Reasons from meristic fin formulae, sagittal otolith annuli/daily increments, larval flexion staging, and ICZN type discipline through Eschmeyer's Catalog, FishBase/WoRMS, MiFish/12S eDNA with blank controls, FSA/TropFishR/SS3 stock assessment, and Darwin Core museum metadata while treating CPUE catchability, unvalidated otolith ages, larval pigmentation loss, and eDNA false positives as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "ichthyologist"
+  ]
+}

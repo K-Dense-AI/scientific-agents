@@ -1,0 +1,16 @@
+{
+  "name": "aerospace-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from margin-managed factors of safety, mass properties, and the analysis-test-similarity V&V hierarchy through FUN3D/SU2 CFD, NASTRAN/Abaqus FEA, JSBSim/Simulink 6-DOF, and FAR/CS, DO-178C, and NASA-STD compliance while treating flutter, buckling, inlet distortion, mass growth, and single-point failures as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "aerospace-engineer"
+  ]
+}

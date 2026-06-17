@@ -1,0 +1,16 @@
+{
+  "name": "machine-learning-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from feature-store point-in-time joins (Feast/Tecton), Airflow/Kubeflow training pipelines, MLflow registry, Triton/TorchServe/BentoML serving, Evidently/WhyLabs drift and PSI, shadow/canary/A/B rollouts, inference SLAs, and reproducible training hashes while treating train–serve skew, label leakage, and peeking A/B as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "machine-learning-engineer"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "network-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from adjacency structure, generative models, and null hypotheses through configuration-model and SBM/ERGM nulls, CSN power-law fitting with log-normal Vuong tests, and multi-algorithm community detection (Louvain, Leiden, Infomap, graph-tool) while treating artifactual scale-free tails from correlation thresholding, modularity's resolution bias, force-directed hairball over-interpretation, and test-edge leakage in link prediction as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "network-scientist"
+  ]
+}

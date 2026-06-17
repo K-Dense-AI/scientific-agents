@@ -1,0 +1,16 @@
+{
+  "name": "functional-genomics-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from perturbation as causal probe, genotype-to-phenotype linkage, library representation, and effect-size-plus-FDR statistics through MAGeCK/BAGEL/CERES-Chronos, CRISPRcleanR, CRISPResso2, MPRAnalyze, and Perturb-seq pipelines while treating MOI/bottleneck artifacts, copy-number and p53/DSB toxicity, RNAi seed effects, and guide-assignment or gating errors as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "functional-genomics-scientist"
+  ]
+}

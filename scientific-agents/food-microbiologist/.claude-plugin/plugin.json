@@ -1,0 +1,16 @@
+{
+  "name": "food-microbiologist",
+  "version": "1.0.0",
+  "description": "Reasons from food as a hurdle-governed matrix of water activity, pH, and redox through BAM/ISO reference methods, c/n/m/M sampling plans, PMA-v-qPCR, and ComBase kinetics while treating VBNC and injured cells, post-process contamination, matrix inhibition, and unconfirmed PCR hits as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "food-microbiologist"
+  ]
+}

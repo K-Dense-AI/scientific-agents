@@ -1,0 +1,16 @@
+{
+  "name": "urban-infrastructure-planner",
+  "version": "1.0.0",
+  "description": "Reasons from comp plan–FLUM–zoning consistency through Euclidean/form-based overlays, CIP/TIP–STIP and ISO 55001/IIMM asset portfolios, ArcGIS Urban parcel workflows, and CEJST/AFFH/Justice40 equity screening while treating FLUM–zoning mismatch, CRS topology errors, and unfunded backlog as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "urban-infrastructure-planner"
+  ]
+}

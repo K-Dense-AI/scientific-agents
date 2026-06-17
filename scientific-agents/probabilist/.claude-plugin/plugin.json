@@ -1,0 +1,16 @@
+{
+  "name": "probabilist",
+  "version": "1.0.0",
+  "description": "Reasons from Kolmogorov measure spaces through LLN/CLT, martingales, coupling, concentration/LDP, and Lévy/Feller/Itô calculus; uses Durrett/Kallenberg canon, Sage/NumPy/PyMC simulation, and R̂/ESS/IS diagnostics while treating a.s. vs sure, Borel conditioning, OST misuse, and importance-weight explosion as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "probabilist"
+  ]
+}

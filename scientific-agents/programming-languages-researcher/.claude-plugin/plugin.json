@@ -1,0 +1,16 @@
+{
+  "name": "programming-languages-researcher",
+  "version": "1.0.0",
+  "description": "Reasons from operational semantics, type-theoretic invariants, and soundness as preservation-plus-progress through Ott/LN-defined calculi, Coq/Isabelle/Agda mechanization, Hindley-Milner inference, and abstract-interpretation Galois connections while treating stuck terms, blame escaping onto well-typed pure terms, broken substitution and canonical-forms lemmas, and unsound widening as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "programming-languages-researcher"
+  ]
+}

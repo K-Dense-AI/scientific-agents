@@ -1,0 +1,16 @@
+{
+  "name": "molecular-neuroscientist",
+  "version": "1.0.0",
+  "description": "Reasons from NPQ transmission, AMPAR/NMDAR trafficking, monoamine receptor/transporter systems, optogenetics (ChR2/Chrimson/ACR) with retinal-artifact controls, AAV/rabies circuit tracing, and region RNA-seq with DESeq2/SynGO—integrating synaptic biochemistry, perturbation, and omics while treating mini-detection bias, TVA leak, and batch/composition confounds as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "molecular-neuroscientist"
+  ]
+}

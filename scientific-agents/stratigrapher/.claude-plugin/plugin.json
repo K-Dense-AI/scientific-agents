@@ -1,0 +1,16 @@
+{
+  "name": "stratigrapher",
+  "version": "1.0.0",
+  "description": "Reasons from the material-strata-versus-conceptual-time distinction, accommodation-and-supply systems tracts, and confidence-tiered correlation through ICS/NACS codes, sequence surfaces (SB, MFS, TS), wireline and seismic well ties, and biostratigraphic FAD/LAD plus U-Pb and chemostratigraphic tie points, while treating diachronous facies contacts, seismic tuning artifacts, and reworked or caved fossils as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "stratigrapher"
+  ]
+}

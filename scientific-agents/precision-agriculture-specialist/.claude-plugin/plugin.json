@@ -1,0 +1,16 @@
+{
+  "name": "precision-agriculture-specialist",
+  "version": "1.0.0",
+  "description": "Reasons from management-zone heterogeneity, the spatial 4R (right input, rate, place, time), and per-zone margin maps through SSURGO/ECa zone delineation, NDVI/NDRE indices, RTK-GNSS georeferencing, and ISOBUS Task Controller as-applied logs while treating planned-versus-applied divergence, NDVI saturation, miscalibrated yield-monitor mass-flow and lag, and RTK float passes as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "precision-agriculture-specialist"
+  ]
+}

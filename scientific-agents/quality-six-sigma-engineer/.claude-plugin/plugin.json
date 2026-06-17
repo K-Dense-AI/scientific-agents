@@ -1,0 +1,16 @@
+{
+  "name": "quality-six-sigma-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from process variation, defect operational definitions, and customer-critical characteristics through Shewhart control charts, Gage R&R (%GRR, ndc), Cp/Cpk and Pp/Ppk capability, DMAIC tollgates, and AIAG PPAP/PFMEA in Minitab or JMP while treating Cpk on unstable processes, attribute data forced as normal, gauge spread consuming tolerance, and unverified projected savings as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "quality-six-sigma-engineer"
+  ]
+}

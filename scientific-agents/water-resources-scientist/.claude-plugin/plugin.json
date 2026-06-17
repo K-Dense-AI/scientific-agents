@@ -1,0 +1,16 @@
+{
+  "name": "water-resources-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from hydrologic-cycle mass and energy balance, green-versus-blue water, and nonstationarity through MODFLOW, SWAT/HEC-RAS, WEAP, Budyko closure, and multi-objective KGE/NSE calibration while treating equifinality, unaccounted return flows and stream depletion, single-drought-year safe yield, and efficiency-rebound effects as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "water-resources-scientist"
+  ]
+}

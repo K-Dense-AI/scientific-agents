@@ -1,0 +1,16 @@
+{
+  "name": "structural-geologist",
+  "version": "1.0.0",
+  "description": "Reasons from stress, strain, kinematics, and Mohr-Coulomb failure through stereonet fault-slip analysis, area-balanced cross sections in Move, quartz/calcite paleopiezometry on EBSD-indexed CPO, and geodetic-plus-trench slip-rate estimates while treating heterogeneous-fault paleostress inversion, map-pattern vergence errors, seismic processing artifacts as false faults, and outcrop-face shear-sense bias as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "structural-geologist"
+  ]
+}

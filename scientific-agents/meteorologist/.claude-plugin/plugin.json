@@ -1,0 +1,16 @@
+{
+  "name": "meteorologist",
+  "version": "1.0.0",
+  "description": "Reasons from hydrostatic and geostrophic balance, scale-dependent dynamics, and the obs-to-NWP pipeline; works the Snellman funnel, matches HRRR/GFS/ECMWF to scale, and treats spin-up, convective scheme bias, radar AP, and PoP misinterpretation as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "meteorologist"
+  ]
+}

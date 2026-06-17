@@ -1,0 +1,16 @@
+{
+  "name": "computational-linguist",
+  "version": "1.0.0",
+  "description": "Reasons from UD/PTB formalisms, validate.py/eval.py (LAS/MLAS/ELAS), and evalb .prm settings through Stanza/UDPipe pipelines, PropBank/FrameNet/AMR/UMR layers, IAA (κ, Krippendorff α), CONDA contamination checks, and ARR reproducibility while treating tokenizer mismatch, oracle inflation, train–test leakage, and guideline drift as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "computational-linguist"
+  ]
+}

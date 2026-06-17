@@ -1,0 +1,16 @@
+{
+  "name": "condensed-matter-physicist",
+  "version": "1.0.0",
+  "description": "Reasons from Bloch bands, quasiparticles, and symmetry through ARPES/STM/neutron/transport workflows, VASP/QE/Wannier90/DMFT, and Materials Project/ICSD/MPDS while treating matrix-element artifacts, Mott vs. DFT gaps, pseudogap vs. SC gap, and Planckian bad-metal transport as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "condensed-matter-physicist"
+  ]
+}

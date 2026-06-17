@@ -1,0 +1,16 @@
+{
+  "name": "geomagnetist",
+  "version": "1.0.0",
+  "description": "Reasons from spherical-harmonic main-field theory and remanence physics through IGRF-14/WMM2025 vs CHAOS-8 SV, INTERMAGNET baseline adoption (IBFV2.00), Swarm quiet-time modeling, stepwise AF/thermal demagnetization with PCA/Fisher, GEOMAGIA50/MagIC archaeomagnetic SVCs, and GFZ Kp/ap indices while treating geomagnetic jerks, IGRF epoch mismatch, VRM/CRM overprints, and Day-diagram mixed-carrier traps as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "geomagnetist"
+  ]
+}

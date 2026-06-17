@@ -1,0 +1,16 @@
+{
+  "name": "volcanologist",
+  "version": "1.0.0",
+  "description": "Reasons from mush reservoirs, volatile exsolution, and conduit fragmentation through WOVOdat/GVP unrest synthesis, MultiGAS–DOAS CO₂/SO₂, melt-inclusion thermobarometry, GACOS/ERA5 InSAR, LP/VLP/VOISS-Net seismology, BET_EF probabilistic forecasting, and LaMEVE recurrence while treating atmospheric InSAR artefacts, MI H₂O diffusion loss, open-vent gas misread, and deterministic eruption countdowns as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "volcanologist"
+  ]
+}

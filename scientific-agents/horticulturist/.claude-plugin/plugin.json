@@ -1,0 +1,16 @@
+{
+  "name": "horticulturist",
+  "version": "1.0.0",
+  "description": "Reasons from plant-environment-cultural coupling, source-sink carbon partitioning, and chilling/photoperiod thresholds through rootstock-scion matching, DLI/VPD and substrate EC/pH targets, Dynamic/Utah chill models, and CA/MA postharvest setpoints while treating blossom-end rot, bitter pit, tipburn, storage scald, and MRL/PHI breaches as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "horticulturist"
+  ]
+}

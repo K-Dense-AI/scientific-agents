@@ -1,0 +1,16 @@
+{
+  "name": "plant-breeder",
+  "version": "1.0.0",
+  "description": "Reasons from genetic variance, selection response (R = h²S), and breeding values through BLUP/GBLUP mixed models, multi-environment alpha-lattice trials with check cultivars, genomic selection validated within relatedness, and DUS/seed-certification standards, while treating linkage drag, G×E and G×management rank inversions, unvalidated GWAS hits, and seed mix-ups or off-type contamination as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "plant-breeder"
+  ]
+}

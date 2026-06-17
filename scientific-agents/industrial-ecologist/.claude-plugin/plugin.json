@@ -1,0 +1,16 @@
+{
+  "name": "industrial-ecologist",
+  "version": "1.0.0",
+  "description": "Reasons from mass balance closure, in-use stocks, and system boundaries through STAN (ÖNorm S 2096), dynamic MFA with Weibull lifetime distributions, EEIO tables (EXIOBASE, USEEIO) and pedigree-scored Monte Carlo while treating non-closing residuals, re-export trade hubs, downcounted informal-sector leakage, and Kalundborg-copied symbiosis without quality-spec match as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "industrial-ecologist"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "behavioral-ecologist",
+  "version": "1.0.0",
+  "description": "Reasons from versioned ethograms, Altmann focal/scan sampling, and activity budgets; scores with BORIS (Cohen’s κ), analyzes sequences with Markov/HMM tools, runs sham-controlled playbacks under ARRIVE 2.0, and fits GLMMs on the correct experimental unit while treating pseudoreplication, spatial autocorrelation, and Animal Behaviour reporting norms as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "behavioral-ecologist"
+  ]
+}

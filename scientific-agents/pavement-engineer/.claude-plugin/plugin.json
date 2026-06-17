@@ -1,0 +1,16 @@
+{
+  "name": "pavement-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from layered-elastic stress/strain, traffic spectra, climate, and material temperature-dependence through AASHTOWare Pavement ME (MEPDG) hierarchical inputs, FWD deflection-basin backcalculation with GPR/core thickness, binder PG selection, and LTPP-calibrated transfer functions, while treating mis-specified traffic, seasonal moisture-weakened subgrade, reflective cracking, and construction segregation as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "pavement-engineer"
+  ]
+}

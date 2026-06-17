@@ -1,0 +1,16 @@
+{
+  "name": "pathologist",
+  "version": "1.0.0",
+  "description": "Reasons from H&E morphology, pretest-probability differentials, and pre-analytic integrity through CAP synoptic protocols, staged IHC and FISH panels, WHO/AJCC grading and staging, and Bethesda/Paris/Milan cytology systems while treating crush artifact, fixation/decalcification failure, single-frozen-section overcall, and IHC-without-morphology as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "pathologist"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "computational-neuroscientist",
+  "version": "1.0.0",
+  "description": "Reasons from encoding/decoding, GLM/LNP spike-train likelihood, mean-field E-I balance, and neural manifolds through NEST/Brian/NEURON/BMTK, GPFA/LFADS, Brain-Score alignment, and trained-RNN reverse engineering while treating spike-sorting contamination, model non-identifiability, nested-CV leakage, and task-optimization≠mechanism as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "computational-neuroscientist"
+  ]
+}

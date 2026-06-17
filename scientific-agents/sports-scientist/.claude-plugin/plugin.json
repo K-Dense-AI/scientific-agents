@@ -1,0 +1,16 @@
+{
+  "name": "sports-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from periodization and session-RPE/ACWR/GPS load monitoring, VALD force-plate readiness, SWC/TE decision bands, and IOC/STROBE-SIIS/CERT/CONSORT reporting while treating pseudoreplication, Hawthorne reactivity, and single-metric injury claims as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "sports-scientist"
+  ]
+}

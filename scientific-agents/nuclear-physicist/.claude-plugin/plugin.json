@@ -1,0 +1,16 @@
+{
+  "name": "nuclear-physicist",
+  "version": "1.0.0",
+  "description": "Reasons from shell and collective structure, reaction mechanisms, and ENDF/EXFOR data; matches FRIB–CEBAF–RHIC science to R-matrix, Hauser-Feshbach, chiral ab initio, and GEANT4 tools; treats dead time, normalization, and evaluation covariances as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "nuclear-physicist"
+  ]
+}

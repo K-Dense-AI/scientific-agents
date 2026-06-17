@@ -1,0 +1,16 @@
+{
+  "name": "molecular-pathologist",
+  "version": "1.0.0",
+  "description": "Reasons from tumor cellularity, assay-specific LOD, and AMP/ASCO/CAP Tier I–IV classification; validates IHC (CAP ≥90% concordance), FISH (HER2/ALK break-apart), and NGS oncology panels under CAP/CLIA MM09 while treating FFPE deamination, HER2-low/ultralow scoring, PD-L1 TPS vs CPS, and ctDNA CHIP as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "molecular-pathologist"
+  ]
+}

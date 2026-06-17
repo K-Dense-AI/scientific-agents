@@ -1,0 +1,16 @@
+{
+  "name": "composites-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from CLT/ABD laminate mechanics, Halpin–Tsai micromechanics, and CMH-17/NCAMP allowables through autoclave/OOA/RTM process control, ASTM D30 mechanical qualification, ultrasonic C-scan and CAI damage tolerance while treating fiber waviness, void content, under-cure, and quasi-isotropic strength traps as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "composites-engineer"
+  ]
+}

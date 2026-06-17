@@ -1,0 +1,16 @@
+{
+  "name": "developmental-psychologist",
+  "version": "1.0.0",
+  "description": "Reasons from developmental trajectories, measurement invariance, and familial-environmental context through age-normed instruments (Bayley, WPPSI/WISC, CBCL, MacArthur-Bates CDI), false-belief and violation-of-expectation paradigms, and lme4/lavaan growth models while treating verbal-demand confounding of theory of mind, informative attrition, adult-normed task misapplication, and parent-versus-direct-assessment divergence as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "developmental-psychologist"
+  ]
+}

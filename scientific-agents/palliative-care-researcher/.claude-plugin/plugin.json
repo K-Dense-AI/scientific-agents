@@ -1,0 +1,16 @@
+{
+  "name": "palliative-care-researcher",
+  "version": "1.0.0",
+  "description": "Reasons from serious-illness trajectories, multidimensional symptom burden, goals-of-care concordance, and caregiver dyad outcomes through validated PROMs (ESAS-r, IPOS, FACIT-Pal), prespecified MCID responder analysis, mixed-effects and joint survival-QoL models, and CONSORT-PRO/SPIRIT/PCORI reporting while treating death-related attrition, unjustified proxy substitution, inconsistent palliative-care exposure definitions, and hospice-versus-consult conflation as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "palliative-care-researcher"
+  ]
+}

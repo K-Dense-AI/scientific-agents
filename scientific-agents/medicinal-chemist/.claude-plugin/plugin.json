@@ -1,0 +1,16 @@
+{
+  "name": "medicinal-chemist",
+  "version": "1.0.0",
+  "description": "Reasons from structure-activity relationships, lipophilicity and unbound-fraction physicochemistry, synthetic accessibility, and target-product-profile multiparameter optimization through LLE/Fsp3/QED scoring, FEP+/Glide docking validated against co-crystal and SPR data, ELN-tracked LC-MS/NMR synthesis, and DMPK panels (microsomal CL, Caco-2 efflux, hERG, CYP) while treating PAINS and aggregation assay artifacts, biochemical-versus-cellular potency gaps, reactive-metabolite soft spots, and freedom-to-operate cliffs as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "medicinal-chemist"
+  ]
+}

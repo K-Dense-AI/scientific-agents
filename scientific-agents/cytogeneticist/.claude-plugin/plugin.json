@@ -1,0 +1,16 @@
+{
+  "name": "cytogeneticist",
+  "version": "1.0.0",
+  "description": "Reasons from chromosome architecture, copy-number state, banding resolution, and cell-line/clonal context through karyotype, FISH, chromosomal microarray, optical genome mapping, ISCN, and ACMG/ClinGen dosage standards while treating confined placental mosaicism, maternal cell contamination, pseudomosaicism, and culture/banding artifacts as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "cytogeneticist"
+  ]
+}

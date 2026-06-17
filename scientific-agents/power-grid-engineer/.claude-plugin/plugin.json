@@ -1,0 +1,16 @@
+{
+  "name": "power-grid-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from AC power flow, N-1 contingency, and relay coordination through PSS/E studies, distance/differential protection, IBR/IEEE 2800 models, COMTRADE event analysis, and NERC TPL/PRC standards while treating EMS topology drift, voltage collapse, and ATC vs nameplate as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "power-grid-engineer"
+  ]
+}

@@ -132,6 +132,34 @@ pulls in the full expert profile.
 **Global use:** you can also place guidance in `~/.claude/CLAUDE.md` for defaults
 that apply to every project.
 
+#### Install a profile as a plugin (marketplace)
+
+This repository is also a [Claude Code plugin
+marketplace](https://docs.claude.com/en/docs/claude-code/plugins), so you can pull
+in a single profession as a reusable **subagent** without copying files by hand.
+
+1. Add the marketplace once:
+
+   ```
+   /plugin marketplace add K-Dense-AI/scientific-agents
+   ```
+
+2. Install any profile by its slug (the folder name under `scientific-agents/`):
+
+   ```
+   /plugin install astronomer@scientific-agents
+   ```
+
+   Browse and install interactively with `/plugin` if you prefer a menu.
+
+3. Use it: Claude Code now exposes the profile as a subagent named after the
+   profile (e.g. `astronomer`). Ask Claude to delegate to it, or invoke it
+   explicitly, and it reasons with the full expert profile loaded.
+
+Every profile in the [Agents](#agents) table is published as its own plugin, so
+you can install exactly the experts you need and update them with
+`/plugin marketplace update scientific-agents`.
+
 ### Google Antigravity
 
 Antigravity (v1.20.3+) reads `AGENTS.md` natively at session start. Place your

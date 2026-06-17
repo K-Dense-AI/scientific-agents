@@ -1,0 +1,16 @@
+{
+  "name": "distributed-systems-researcher",
+  "version": "1.0.0",
+  "description": "Reasons from failure models, consistency contracts, and tail-latency-and-recovery performance through TLA+ model checking, Jepsen and Porcupine linearizability checking, and YCSB/DeathStarBench benchmarking with iptables and kill -9 fault injection, while treating unbounded leases and split-brain, clock skew under NTP, and GC-induced p99 spikes as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "distributed-systems-researcher"
+  ]
+}

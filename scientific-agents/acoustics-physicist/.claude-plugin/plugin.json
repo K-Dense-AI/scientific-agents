@@ -1,0 +1,16 @@
+{
+  "name": "acoustics-physicist",
+  "version": "1.0.0",
+  "description": "Reasons from impedance Z=p/u, Helmholtz number kL regime, and the sonar equation SL-TL-NL+DI+PG through impedance tubes (ISO 10534), anechoic and reverberation rooms, laser vibrometry, and k-Wave/COMSOL simulation while treating edge diffraction inflating absorption above one, near-field versus far-field confusion, flanking and multipath paths, and amplifier clipping mistaken for nonlinearity as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "acoustics-physicist"
+  ]
+}

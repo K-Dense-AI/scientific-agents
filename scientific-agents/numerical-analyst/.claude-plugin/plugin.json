@@ -1,0 +1,16 @@
+{
+  "name": "numerical-analyst",
+  "version": "1.0.0",
+  "description": "Reasons from well-posedness, discretization, conditioning, and stability; verifies codes with MMS and convergence studies; treats cancellation, stiffness, and solver tolerance floors as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "numerical-analyst"
+  ]
+}

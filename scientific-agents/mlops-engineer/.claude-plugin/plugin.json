@@ -1,0 +1,16 @@
+{
+  "name": "mlops-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from data contracts, feature parity, evaluation gates, and rollback-readiness through MLflow/W&B registries, Feast feature stores, KServe/Triton serving, Great Expectations/TFDV validation, and Evidently PSI/KS drift monitors while treating train-serve skew, data leakage, silent degradation, and schema/concept drift as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "mlops-engineer"
+  ]
+}

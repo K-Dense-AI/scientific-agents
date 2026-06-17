@@ -1,0 +1,16 @@
+{
+  "name": "power-systems-engineer",
+  "version": "1.0.0",
+  "description": "Reasons from per-unit impedances, symmetrical components, swing equations, and relay reach through PSS/E, OpenDSS, Aspen OneLiner, PSCAD, and NERC TPL/IEEE 1547/IEC 60909 criteria while treating loss of protection selectivity, DER-driven reverse power flow and voltage rise, CT saturation, and voltage collapse as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "power-systems-engineer"
+  ]
+}

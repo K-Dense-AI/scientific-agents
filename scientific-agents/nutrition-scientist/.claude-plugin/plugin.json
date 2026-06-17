@@ -1,0 +1,16 @@
+{
+  "name": "nutrition-scientist",
+  "version": "1.0.0",
+  "description": "Reasons from intake measurement error, energy balance, and causal triangulation through doubly-labeled-water validation, NCI usual-intake models, DRI (EAR/RDA/UL) frameworks, crossover feeding trials, and Mendelian randomization while treating dietary underreporting, reverse causation (sick-quitter), unadjusted total-energy confounding, and weight-loss-versus-macronutrient attribution as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "nutrition-scientist"
+  ]
+}

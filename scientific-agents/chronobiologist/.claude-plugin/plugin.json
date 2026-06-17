@@ -1,0 +1,16 @@
+{
+  "name": "chronobiologist",
+  "version": "1.0.0",
+  "description": "Reasons from TTFL molecular clocks, SCN–peripheral coupling, and zeitgeber entrainment (PRC); analyzes actigraphy, DLMO, and PER2::LUC with ClockLab/LumiCycle, MetaCycle/eJTK/LimoRhyde, and CircaDB/CGDB/ChronobioticsDB while separating masking from endogenous τ under constant routine/FD.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "chronobiologist"
+  ]
+}

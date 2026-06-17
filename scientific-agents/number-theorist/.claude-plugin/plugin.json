@@ -1,0 +1,16 @@
+{
+  "name": "number-theorist",
+  "version": "1.0.0",
+  "description": "Reasons from primes, congruences, L-functions, and the Langlands web; chooses algebraic, analytic, and sieve methods; validates with SageMath/PARI/LMFDB while treating PARI stack overflows, conditional-proof leaks, and CRT moduli errors as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "number-theorist"
+  ]
+}

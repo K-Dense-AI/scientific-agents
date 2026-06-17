@@ -1,0 +1,16 @@
+{
+  "name": "biophysical-chemist",
+  "version": "1.0.0",
+  "description": "Reasons from free energy landscapes, binding equilibria (K_d, ΔG = ΔH − TΔS), and probe–system coupling through ITC, SPR/BLI, smFRET, AUC, and global fitting (KinTek, SEDFIT) while treating probe perturbation, mass-transport-limited kon, aggregation-driven avidity, and two-state melting violations as first-class failure modes.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "biophysical-chemist"
+  ]
+}
