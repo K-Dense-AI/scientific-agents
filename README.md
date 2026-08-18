@@ -16,6 +16,8 @@ tools and data it reaches for, how it stress-tests claims, and how it reports fi
 
 </div>
 
+> 🎬 **New to agent profiles?** [Getting Started with Scientific Agent Skills](https://youtu.be/ZxbnDaD_FVg) shows how K-Dense skills and profiles plug into your agent. More walkthroughs on the [K-Dense YouTube channel](https://www.youtube.com/@K-Dense-Inc).
+
 ## Table of contents
 
 - [What is AGENTS.md?](#what-is-agentsmd)
