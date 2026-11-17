@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-K--Dense_Inc.-0A66C2?logo=linkedin)](https://www.linkedin.com/company/k-dense-inc)
 [![YouTube](https://img.shields.io/badge/YouTube-K--Dense_Inc.-FF0000?logo=youtube)](https://www.youtube.com/@K-Dense-Inc)
 [![Reddit](https://img.shields.io/badge/Reddit-u%2F--k--dense---FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/-k-dense-/)
-[![Expert Profiles](https://img.shields.io/badge/Expert_Profiles-503-7C3AED)](#agents)
+[![Expert Profiles](https://img.shields.io/badge/Expert_Profiles-504-7C3AED)](#agents)
 [![Agent Plugins](https://img.shields.io/badge/Agent_Plugins-1.0.0-0F766E)](https://agent-plugins.org/)
 [![arXiv](https://img.shields.io/badge/arXiv-2610.00084-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2610.00084)
 
@@ -318,7 +318,7 @@ If you use these profiles in your research, please cite the paper:
 
 ## Agents
 
-All 503 expert profiles, grouped by domain. Click a section to expand it; each
+All 504 expert profiles, grouped by domain. Click a section to expand it; each
 profile name links to its `AGENTS.md`. The complete machine-readable registry lives in [`catalog.json`](catalog.json).
 
 <details>
@@ -714,7 +714,7 @@ profile name links to its `AGENTS.md`. The complete machine-readable registry li
 </details>
 
 <details>
-<summary><b>Medicine & Clinical Science</b> — 58 profiles</summary>
+<summary><b>Medicine & Clinical Science</b> — 59 profiles</summary>
 
 | Agent | How it reasons |
 | --- | --- |
@@ -747,6 +747,7 @@ profile name links to its `AGENTS.md`. The complete machine-readable registry li
 | [Health Informatician](scientific-agents/health-informatician/AGENTS.md) | Reasons from semantic interoperability, provenance, and patient safety through FHIR/US Core, SNOMED-LOINC-RxNorm terminology mapping, OMOP/OHDSI ETL with DQD/Achilles, and chart-review PPV validation while treating immortal-time and confounding-by-indication bias, patient-matching/MPI failures, billing-code phenotypes, and vocabulary version drift as first-class failure modes. |
 | [Hematologist](scientific-agents/hematologist/AGENTS.md) | Reasons from hematopoietic hierarchy, clonal evolution, and hemostatic balance through peripheral smear review, reticulocyte production index, flow cytometry, mixing studies, and WHO/ICC-anchored NGS and cytogenetics, while treating pseudothrombocytopenia, preanalytic line-draw and EDTA artifacts, and missed consumptive emergencies like TTP and DIC as first-class failure modes. |
 | [Hepatologist](scientific-agents/hepatologist/AGENTS.md) | Reasons from hepatic injury pattern (R-value), synthetic function, and portal hypertension through Child-Pugh/MELD 3.0, FIB-4 and elastography, LI-RADS/BCLC staging, SAAG paracentesis, and Baveno VII criteria while treating DILI misattribution, elastography false positives in cholestasis, hypersplenic thrombocytopenia, and missed acute-on-chronic decompensation as first-class failure modes. |
+| [IBD Specialist](scientific-agents/ibd-specialist/AGENTS.md) | Calibrates depth to clinician vs patient education, checks first diagnosis and mimics, then applies Montreal phenotype, pMayo/UCEIS/MES, MUC/IBUS-SAS, Rutgeerts, IUS-first imaging with MRI/MRE (MaRIA/CDMI), PUCCINI perianal scoring, and capsule endoscopy, with calprotectin/CRP through jurisdiction-specific ECCO/ACG/AOCC/PANCCO/IG-IBD guidance, EMA/FDA labels, pre-therapy vaccination and prophylaxis rules, STRIDE-III targets, Crohn's nutrition therapies (EEN and CDED with PEN), and PROFILE/VERDICT strategy evidence, UC and Crohn's surgical indications, and EIM rules while treating symptom–inflammation discordance, functional symptoms in remission, missed acute severe UC under Truelove and Witts or REFINED-ASUC, infection, steroid dependence, and missed dysplasia or interval cancers as first-class failure modes, with continuous-time trajectories, realistic monitoring, and multimodal-image guardrails. |
 | [Immunotherapy Scientist](scientific-agents/immunotherapy-scientist/AGENTS.md) | Reasons from antigen recognition and checkpoint circuits through CAR-T/bispecific design, ASTCT CRS/ICANS grading, flow cytometry release CQAs, iRECIST response assessment, COMPASS/TIDE biomarker modeling, and JACIE/FACT IEC accreditation while treating antigen escape, pseudoprogression, tonic signaling, and step-up CRS as first-class failure modes. |
 | [Infectious Disease Specialist](scientific-agents/infectious-disease-specialist/AGENTS.md) | Reasons from the host-pathogen-antimicrobial triangle, source control, and local resistance through IDSA/CLSI M100 breakpoints, PK/PD targets (vancomycin AUC24 400-600, beta-lactam time-above-MIC), and diagnostics like MALDI-TOF, BioFire panels, and galactomannan while treating colonization-versus-infection, blood-culture contaminants, and noninfectious fever mimics (drug fever, IRIS) as first-class failure modes. |
 | [Medical Geneticist](scientific-agents/medical-geneticist/AGENTS.md) | Reasons from pedigree priors, HPO phenotype match, and ACMG/ClinGen variant classification; integrates exome/genome, CMA, RNA splicing, NBS ACT pathways, Tier 3 carrier screening, SF v3.3, and CPIC pharmacogenomics while treating VUS overcall, CPM/NIPT discordance, mtDNA heteroplasmy sampling, and SpliceAI-only splicing claims as first-class failure modes. |
