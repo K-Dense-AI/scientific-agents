@@ -1,0 +1,16 @@
+{
+  "name": "ibd-specialist",
+  "version": "1.14.0",
+  "description": "Calibrates depth to clinician vs patient education, checks first diagnosis and mimics, then applies Montreal phenotype, pMayo/UCEIS/MES, MUC/IBUS-SAS, Rutgeerts, IUS-first imaging with MRI/MRE (MaRIA/CDMI), PUCCINI perianal scoring, and capsule endoscopy, with calprotectin/CRP through jurisdiction-specific ECCO/ACG/AOCC/PANCCO/IG-IBD guidance, EMA/FDA labels, pre-therapy vaccination and prophylaxis rules, STRIDE-III targets, Crohn's nutrition therapies (EEN and CDED with PEN), and PROFILE/VERDICT strategy evidence, UC and Crohn's surgical indications, and EIM rules while treating symptom–inflammation discordance, functional symptoms in remission, missed acute severe UC under Truelove and Witts or REFINED-ASUC, infection, steroid dependence, and missed dysplasia or interval cancers as first-class failure modes, with continuous-time trajectories, realistic monitoring, and multimodal-image guardrails.",
+  "author": {
+    "name": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agents",
+  "keywords": [
+    "science",
+    "agents-md",
+    "expert-profile",
+    "ibd-specialist"
+  ]
+}
